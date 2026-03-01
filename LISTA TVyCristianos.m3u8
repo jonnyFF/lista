@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="Cronica " group-title="Noticias",Cronica 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376309/ei/lXUQZsjNM8n91sQPzKSv4AU/ip/190.5.184.72/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxeDWNocqTgQR28CAh0KcP0SJm8JzAbHIeTGFN8kG5GNe7-u6g4HcQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL-ifqUxQAFBnBmElaZzYLZKW00msWGxizRBiunQz5uxAiBbm0ahV4n-WN9BxaFR2guv9RIGUy6ZPadPjezQBHSxjA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="TN" group-title="Noticias" ,TN NOTICIAS
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376410/ei/-nUQZtqNE-24obIPz8ufwAU/ip/190.5.184.72/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2WklekOwBikod-r78bgXmCuSarWWdrCgTRdvzwzUXcq67gK6OtnVQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALLpLBjGo4EQFthe_2RDolyTLu26CA06f7QFs4WQasZ7AiAuOJK0SoiKTWsyEV1Wq44P7xkzWuShKEwaMZGgjCfJjA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="Canal 9"  group-title="Noticias" ,Canal 9
+https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CtMFpUgB5vb90SaJf7CO8sCjpMbGH_MLiGzCK1hhYF3cU8mDbNdLekVFQU-Iu_kVfrqCjF65ZEfjrYEZo58rwH0hPM8tEDwkvzALfWkitSP7hN-cq4fUnaUBiLgV2lG9ZNzcsE-LEDqDQYVXTu-1Yc7aRLsDGtCBF5nkn_M4_fQW339CSQX-3MdxEGT-_52R7WGM5rMPDsPLEQsJ7zHCLJ5cNuuUk11O8JKPmBOXwGU1BdviKUxDK2ZzP7HVSWqmAWMOqZmdqTaUnQriRWmkS1eP0D98EJ-FB8YLKuyAEO4eJFGZZTPRs6bOoJ6AGAsUApn1_b-EqG520IwIDHmpmMMrhtM0B18SiClTjrWIXeqYjSHS_oWfZdRWWZIqJYBri17SCUJVpXQ-n2RL0jMw4uxga_2TamIEDtQd5req6gmmNb2xmhKpj2lpc6SquFENyBM9jpaTXZYk1HxQ9A1WeM2wLhXo7F0i1kIbiHZVZzKncTJIxWLnS9opHFPAbxb0UE7NZ-wCDjIVUx_1YO50utiqqW4-A8rdxoSnFWfhDhImjPSM5Wexw1zkmgC56QQlCp2fIgTfGHDQhhxQA6k88bxQ-IfS64ixskxqqkUgjeLT8WrdTWGLhg4MYEgxJfPiKIZ1GWjO-vXCE3KArbOdEbXFM6cusXj0rmBjGPVsh-heziOFqDc3SovXK4BxVVT_ZdjVM-u47MVe1xzO10vtyHDlYQO9Jco31ooXM1MpWpaVgx5ogL-4fr0DsTdT4I_31dWyBtKAQZbbGk72jXEuGcp2yZQBwULP5h1ON2UUonOTb9-KAxzMw-trTdPzwk_UIev9q1ZVb6X4WRFMtUF79ezgvw0tXLmcWUxUCIoMt53VI_Z-eFGEch7hNCoqNYP2Rcv9G5lEE6K2frAyV6TwtYVk4IjQPygiCGqFp5ZbEp0MCJIigemmzpF0FpAX846yL4Uxp4jBGgx2NBUFNCIcJuMWeGkgASoJdXMtZWFzdC0xMMQH.m3u8
+#EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Tv Publica" group-title="Noticias" ,Tv Publica
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+#EXTINF:-1 tvg-id="Televida"  group-title="Noticias" ,Televida
+https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Multivision"  group-title="Noticias" ,Multivision
+https://panel.dattalive.com/8250/8250/chunklist_w1453121230.m3u8
+#EXTINF:-1 tvg-id="RT "  group-title="Noticias" ,RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
+
+#EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
+http://clubtv.link/AB0104/key4513/lista1.php?c=a01l&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids HD"  group-title="Infantil" ,Discovery Kids HD
+http://181.205.130.194:4000/play/a0ac/index.m3u8
+#EXTINF:-1 tvg-id=" Disney Channel "  group-title="Infantil" ,Disney Channel 
+http://clubtv.link/AB0104/key4513/lista1.php?c=a06c&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-id="Disney Junior"  group-title="Infantil" ,Disney Junior
+http://clubtv.link/AB0104/key4513/lista1.php?c=a026&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-id="Magic Kids"  group-title="Infantil" ,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="Nick Junior"  group-title="Infantil" ,Nick Junior
+http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="Infantil" ,PlanetaTV Kids
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+#EXTINF:-1 tvg-id="Dragon Ball"  group-title="Infantil" ,Dragon Ball
+http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN"  group-title="Peliculas" ,AXN
+http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax"  group-title="Peliculas" ,Cinemax
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="HBO "  group-title="Peliculas" ,HBO
+http://clubtv.link/AB0104/key4513/lista.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-id="HBO LAT"  group-title="Peliculas" ,HBO LAT
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 ING"  group-title="Peliculas" ,HBO 2 ING
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 tvg-id="HBO 2 LAT"  group-title="Peliculas" ,HBO 2 LAT
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family"  group-title="Peliculas" ,HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBO Plus ING"  group-title="Peliculas" ,HBO Plus ING
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO PLUS LAT"  group-title="Peliculas" ,HBO PLUS LAT
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-id="HBO Extreme"  group-title="Peliculas" ,HBO Extreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-id="USA"  group-title="Peliculas" ,USA
+http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT HD"  group-title="Peliculas" ,TNT HD
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNT Series HD"  group-title="Peliculas" ,TNT Series HD
+http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
+http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinerama TV"  group-title="Peliculas" ,Cinerama TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+#EXTINF:-1 tvg-id="De Peliculas"  group-title="Peliculas" ,De Peliculas
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemax"  group-title="Peliculas" ,Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Warner Channel HD"  group-title="Peliculas" ,Warner Channel HD
+http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1 tvg-id="Universal tv"  group-title="Peliculas" ,Universal tv
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+#EXTINF:-1 tvg-id="Universal Premier"  group-title="Peliculas" ,Universal Premier
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+#EXTINF:-1 tvg-id="Cine Ar"  group-title="Peliculas" ,Cine Ar
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Paramount"  group-title="Peliculas" ,Paramount
+http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="Sony"  group-title="Peliculas" ,Sony
+http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
+#EXTINF:-1 tvg-id="A&E"  group-title="Peliculas" ,A&E
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+
+#EXTINF:-1 tvg-id="History HD"  group-title="Documentales" ,History HD
+http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="History 2"  group-title="Peliculas" ,History 2
+http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="National Geographic"  group-title="Documentales" ,National Geographic
+http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
+#EXTINF:-1 tvg-id="Encuentro"  group-title="Culturales" ,Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="Discovery Home & Health"  group-title="Documentales" ,Discovery Home & Health
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:-1 tvg-id="Discovery World"  group-title="Documentales" ,Discovery World
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel "  group-title="Documentales" ,Discovery Channel 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Animat Planet"  group-title="Documentales" ,Animat Planet
+http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sport Premium" group-title="Deporte" ,Fox Sport Premium
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport"  group-title="Deporte" ,Fox Sport
+https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+#EXTINF:-1 tvg-id="Fox Sport 2"  group-title="Deporte" ,Fox Sport 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sport3"  group-title="Deporte" ,Fox Sport3
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport MXC"  group-title="Deporte" ,Fox Sport MXC
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="DirecTv Sport 1"  group-title="Deporte" ,DirecTv Sport 1
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-id="TyC Sport Inter"  group-title="Deporte" ,TyC Sport Inter
+http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-id="DeporTv"  group-title="Deporte" ,DeporTv
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="AFA PLAY" group-title="Deporte" ,AFA PLAY
+https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index_4.m3u8
+#EXTINF:-1 tvg-id="ESPN 3"  group-title="Deporte" ,ESPN 3
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
+#EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/48f0d102-b10d-4711-aa83-9bbe305c702a/1.m3u8
+#EXTINF:-1 tvg-id="Bein Sports2"  group-title="Deporte" ,Bein Sports2
+http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-id="Hola TV"  group-title="Culturales" ,Hola TV
+http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 13 Chile"  group-title="Culturales" ,Canal 13 Chile
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+#EXTINF:-1 tvg-id=" AFV "  group-title="Culturales" ,AFV
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Rural"  group-title="Culturales" ,Canal Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Chacra"  group-title="Culturales" ,Chacra
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+
+#EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Enlace Juvenil"  group-title="Cristianas" ,Enlace Juvenil
+https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
+#EXTINF:0 tvg-id="Ebenezer tv"  group-title="Cristianas" ,Ebenezer tv
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:0 tvg-id="Zoe TV"  group-title="Cristianas" ,Zoe TV
+https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u8
+#EXTINF:-1 tvg-id="ElCamino "  group-title="Cristianas" ,ElCamino 
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w1189769782.m3u8
+#EXTINF:-1 tvg-id="Dios tv"  group-title="Cristianas" ,Dios tv
+https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Vida Abundante"  group-title="Cristianas" ,Vida Abundante
+https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
+#EXTINF:-1 tvg-id="MCN TV"  group-title="Cristianas" ,MCN TV
+https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
+#EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
