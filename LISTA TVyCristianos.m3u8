@@ -78,7 +78,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/56_.m3u8?token=cqZP39epYZ9eZDoeC4UM8w&expires=1772440498
 
 #EXTINF:-1 tvg-id="Cinerama TV"  group-title="Peliculas" ,Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
@@ -209,6 +209,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
