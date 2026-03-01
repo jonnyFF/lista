@@ -172,8 +172,10 @@ https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/in
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/48f0d102-b10d-4711-aa83-9bbe305c702a/1.m3u8
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein Sports2"  group-title="Deporte" ,Bein Sports2
 http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
 
@@ -210,6 +212,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
