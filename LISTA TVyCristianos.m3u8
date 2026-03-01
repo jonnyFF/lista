@@ -1,21 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Tv Publica" group-title="Noticias" ,Tv Publica
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+
 #EXTINF:-1 tvg-id="Televida"  group-title="Noticias" ,Televida
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Multivision"  group-title="Noticias" ,Multivision
 https://panel.dattalive.com/8250/8250/chunklist_w1453121230.m3u8
+
 #EXTINF:-1 tvg-id="RT "  group-title="Noticias" ,RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01l&token=TecntvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-id="I-Sat "  group-title="Infantil" ,I-sat
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b2&f=.m3u8&token=tecnotokenplustv230516F
 
@@ -30,29 +37,40 @@ http://clubtv.link/AB0104/key4513/lista1.php?c=a026&token=TecntvGeneradorTV&f=.m
 
 #EXTINF:-1 tvg-id="Magic Kids"  group-title="Infantil" ,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
 #EXTINF:-1 tvg-id="Nick Junior"  group-title="Infantil" ,Nick Junior
 http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="Infantil" ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
+
 #EXTINF:-1 tvg-id="Dragon Ball"  group-title="Infantil" ,Dragon Ball
 http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+
 #EXTINF:-1 tvg-id="AXN"  group-title="Peliculas" ,AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cinemax"  group-title="Peliculas" ,Cinemax
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a093&f=.m3u8&token=tecnotokenplustv230516F
+
 #EXTINF:-1 tvg-id="HBO "  group-title="Peliculas" ,HBO
 http://clubtv.link/AB0104/key4513/lista.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-id="HBO LAT"  group-title="Peliculas" ,HBO LAT
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO 2 ING"  group-title="Peliculas" ,HBO 2 ING
 http://170.254.18.106/HBO2/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO 2 LAT"  group-title="Peliculas" ,HBO 2 LAT
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Family"  group-title="Peliculas" ,HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Plus ING"  group-title="Peliculas" ,HBO Plus ING
 http://170.254.18.106/HBO_PLUS/index.m3u8
 #EXTINF:-1 tvg-id="HBO PLUS LAT"  group-title="Peliculas" ,HBO PLUS LAT
@@ -169,6 +187,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
