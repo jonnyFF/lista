@@ -3,7 +3,7 @@
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/3_.m3u8?token=lAeiudRnFEl-18gelpEeTw&expires=1772442198
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/4_.m3u8?token=H15-LREgBrIHwSPk100wmA&expires=1772443887
 
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -158,6 +158,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
