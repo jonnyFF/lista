@@ -127,18 +127,12 @@ http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="Hola TV"  group-title="Culturales" ,Hola TV
-http://stream.flynetwifi.com:1935/live/mobile-013/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 13 Chile"  group-title="Culturales" ,Canal 13 Chile
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-id=" AFV "  group-title="Culturales" ,AFV
-https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal Rural"  group-title="Culturales" ,Canal Rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Chacra"  group-title="Culturales" ,Chacra
-https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -158,6 +152,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
