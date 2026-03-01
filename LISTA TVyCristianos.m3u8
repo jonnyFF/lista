@@ -136,7 +136,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/37_.m3u8?token=n2W8ZbW3H0snw4k1e5p09Q&expires=1772439806
 
 #EXTINF:-1 tvg-id="Animat Planet"  group-title="Documentales" ,Animat Planet
-http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/46_.m3u8?token=p8DnNHRXh5ZpGlDggLTLPQ&expires=1772440374
 
 #EXTINF:-1 tvg-id="Fox Sport Premium" group-title="Deporte" ,Fox Sport Premium
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
@@ -209,6 +209,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
