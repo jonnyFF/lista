@@ -158,8 +158,10 @@ http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTv Sport 1"  group-title="Deporte" ,DirecTv Sport 1
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
 #EXTINF:-1 tvg-id="TyC Sport Inter"  group-title="Deporte" ,TyC Sport Inter
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 #EXTINF:-1 tvg-id="DeporTv"  group-title="Deporte" ,DeporTv
@@ -208,6 +210,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
