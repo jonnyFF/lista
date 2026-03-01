@@ -32,6 +32,9 @@ https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/59_.m3u8?token=
 #EXTINF:-1 tvg-id="Cinemax"  group-title="Peliculas" ,Cinemax
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a093&f=.m3u8&token=tecnotokenplustv230516F
 
+#EXTINF:-1 tvg-id="HBO Family"  group-title="Peliculas" ,HBO Family
+http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="Universal"  group-title="Peliculas" ,Universal
 http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch10&token=tecnotokenplustv230516F&f=.m3u8
 
@@ -156,6 +159,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
