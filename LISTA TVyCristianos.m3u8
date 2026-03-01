@@ -140,8 +140,10 @@ https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/46_.m3u8?token=
 
 #EXTINF:-1 tvg-id="Fox Sport Premium" group-title="Deporte" ,Fox Sport Premium
 http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+
 #EXTINF:-1 tvg-id="Fox Sport"  group-title="Deporte" ,Fox Sport
-https://edge-live01-mun.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd
+https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
+
 #EXTINF:-1 tvg-id="Fox Sport 2"  group-title="Deporte" ,Fox Sport 2
 http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sport3"  group-title="Deporte" ,Fox Sport3
@@ -209,6 +211,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
