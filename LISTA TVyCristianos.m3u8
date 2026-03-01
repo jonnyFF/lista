@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
 https://edge-live32-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzcyNTY1ODY0Iiwic2lwIjoiMTQ4LjIyMi4xOTQuMTA2IiwicGF0aCI6Ii9saXZlL2M2ZWRzL1RlbGVmZUhEL1NBX0xpdmVfZGFzaF9lbmNfQy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjI0YTEyMmRmNTAxMWFjN2QiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE0IiwiYXVkIjoiMTAwIiwic291cmNlcyI6Wzg1LDE0NCw4Niw4OF19._6jirLHv_KqEgVuSNZ2uPXglNLjSEPvB8bqbpq8-3HU3I22AjEWxIB9yoD4bCo_J7AvsrYDfimiPYtdjbbAgdQ==/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
+
 #EXTINF:-1 tvg-id="Televida"  group-title="Noticias" ,Televida
 https://unlimited1-cl-isp.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
@@ -207,6 +208,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
