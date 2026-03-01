@@ -29,22 +29,8 @@ https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/57_.m3u8?token=
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/56_.m3u8?token=cqZP39epYZ9eZDoeC4UM8w&expires=1772440498
 
-#EXTINF:-1 tvg-id="TN NOTICIAS"  group-title="NOTICIAS" ,TN NOTICIAS
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Warner Channel HD"  group-title="Peliculas" ,Warner Channel HD
-http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Universal tv"  group-title="Peliculas" ,Universal tv
-http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
-
-#EXTINF:-1 tvg-id="Universal Premier"  group-title="Peliculas" ,Universal Premier
-http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
-
-#EXTINF:-1 tvg-id="Cine Ar"  group-title="Peliculas" ,Cine Ar
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="La 100 Radio"  group-title="Peliculas" ,La 100 Radio
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Paramount"  group-title="Peliculas" ,Paramount
 http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
@@ -158,6 +144,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
