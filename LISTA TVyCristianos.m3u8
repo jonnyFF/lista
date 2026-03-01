@@ -32,8 +32,7 @@ https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/56_.m3u8?token=
 #EXTINF:-1 tvg-id="TN NOTICIAS"  group-title="NOTICIAS" ,TN NOTICIAS
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 
-#EXTINF:-1 tvg-id="Telemax"  group-title="Peliculas" ,Telemax
-https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Warner Channel HD"  group-title="Peliculas" ,Warner Channel HD
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
@@ -92,8 +91,9 @@ https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.10
 #EXTINF:-1 tvg-id="Fox Sport Premiun"  group-title="Deporte" ,Fox Sport Premiun
 https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
 
-#EXTINF:-1 tvg-id="Fox Sport3"  group-title="Deporte" ,Fox Sport3
-http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sport2"  group-title="Deporte" ,Fox Sport2
+https://tk0hz.envivoslatam.org/fox2ar/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=6b9cef519bc1f9c7d4fa37c182e53ae7b8d2842a-e5-1772444489-1772390489
+
 #EXTINF:-1 tvg-id="Fox Sport MXC"  group-title="Deporte" ,Fox Sport MXC
 http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTv Sport 1"  group-title="Deporte" ,DirecTv Sport 1
@@ -157,6 +157,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
