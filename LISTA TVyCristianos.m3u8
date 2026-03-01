@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cronica " group-title="Noticias",Cronica 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376309/ei/lXUQZsjNM8n91sQPzKSv4AU/ip/190.5.184.72/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxeDWNocqTgQR28CAh0KcP0SJm8JzAbHIeTGFN8kG5GNe7-u6g4HcQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL-ifqUxQAFBnBmElaZzYLZKW00msWGxizRBiunQz5uxAiBbm0ahV4n-WN9BxaFR2guv9RIGUy6ZPadPjezQBHSxjA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="TN" group-title="Noticias" ,TN NOTICIAS
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="A24" group-title="Noticias",A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376410/ei/-nUQZtqNE-24obIPz8ufwAU/ip/190.5.184.72/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2WklekOwBikod-r78bgXmCuSarWWdrCgTRdvzwzUXcq67gK6OtnVQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALLpLBjGo4EQFthe_2RDolyTLu26CA06f7QFs4WQasZ7AiAuOJK0SoiKTWsyEV1Wq44P7xkzWuShKEwaMZGgjCfJjA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="Canal 9"  group-title="Noticias" ,Canal 9
-https://video-weaver.rio03.hls.ttvnw.net/v1/playlist/CtMFpUgB5vb90SaJf7CO8sCjpMbGH_MLiGzCK1hhYF3cU8mDbNdLekVFQU-Iu_kVfrqCjF65ZEfjrYEZo58rwH0hPM8tEDwkvzALfWkitSP7hN-cq4fUnaUBiLgV2lG9ZNzcsE-LEDqDQYVXTu-1Yc7aRLsDGtCBF5nkn_M4_fQW339CSQX-3MdxEGT-_52R7WGM5rMPDsPLEQsJ7zHCLJ5cNuuUk11O8JKPmBOXwGU1BdviKUxDK2ZzP7HVSWqmAWMOqZmdqTaUnQriRWmkS1eP0D98EJ-FB8YLKuyAEO4eJFGZZTPRs6bOoJ6AGAsUApn1_b-EqG520IwIDHmpmMMrhtM0B18SiClTjrWIXeqYjSHS_oWfZdRWWZIqJYBri17SCUJVpXQ-n2RL0jMw4uxga_2TamIEDtQd5req6gmmNb2xmhKpj2lpc6SquFENyBM9jpaTXZYk1HxQ9A1WeM2wLhXo7F0i1kIbiHZVZzKncTJIxWLnS9opHFPAbxb0UE7NZ-wCDjIVUx_1YO50utiqqW4-A8rdxoSnFWfhDhImjPSM5Wexw1zkmgC56QQlCp2fIgTfGHDQhhxQA6k88bxQ-IfS64ixskxqqkUgjeLT8WrdTWGLhg4MYEgxJfPiKIZ1GWjO-vXCE3KArbOdEbXFM6cusXj0rmBjGPVsh-heziOFqDc3SovXK4BxVVT_ZdjVM-u47MVe1xzO10vtyHDlYQO9Jco31ooXM1MpWpaVgx5ogL-4fr0DsTdT4I_31dWyBtKAQZbbGk72jXEuGcp2yZQBwULP5h1ON2UUonOTb9-KAxzMw-trTdPzwk_UIev9q1ZVb6X4WRFMtUF79ezgvw0tXLmcWUxUCIoMt53VI_Z-eFGEch7hNCoqNYP2Rcv9G5lEE6K2frAyV6TwtYVk4IjQPygiCGqFp5ZbEp0MCJIigemmzpF0FpAX846yL4Uxp4jBGgx2NBUFNCIcJuMWeGkgASoJdXMtZWFzdC0xMMQH.m3u8
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Tv Publica" group-title="Noticias" ,Tv Publica
@@ -171,4 +163,5 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
