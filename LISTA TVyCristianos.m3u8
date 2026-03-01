@@ -69,7 +69,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
 http://170.254.18.106/HBO_XTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="USA"  group-title="Peliculas" ,USA
-http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/57_.m3u8?token=n-jZCsy5FMcmmcy2Cr8n9Q&expires=1772440732
 
 #EXTINF:-1 tvg-id="TNT HD"  group-title="Peliculas" ,TNT HD
 http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
@@ -209,6 +209,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
