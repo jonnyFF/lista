@@ -16,12 +16,18 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
 http://clubtv.link/AB0104/key4513/lista1.php?c=a01l&token=TecntvGeneradorTV&f=.m3u8
+#EXTINF:-1 tvg-id="I-Sat "  group-title="Infantil" ,I-sat
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b2&f=.m3u8&token=tecnotokenplustv230516F
+
 #EXTINF:-1 tvg-id="Discovery Kids HD"  group-title="Infantil" ,Discovery Kids HD
 http://181.205.130.194:4000/play/a0ac/index.m3u8
+
 #EXTINF:-1 tvg-id=" Disney Channel "  group-title="Infantil" ,Disney Channel 
 http://clubtv.link/AB0104/key4513/lista1.php?c=a06c&token=TecntvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-id="Disney Junior"  group-title="Infantil" ,Disney Junior
 http://clubtv.link/AB0104/key4513/lista1.php?c=a026&token=TecntvGeneradorTV&f=.m3u8
+
 #EXTINF:-1 tvg-id="Magic Kids"  group-title="Infantil" ,Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="Nick Junior"  group-title="Infantil" ,Nick Junior
@@ -163,6 +169,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
