@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="Cronica " group-title="Noticias",Cronica 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712376309/ei/lXUQZsjNM8n91sQPzKSv4AU/ip/190.5.184.72/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxeDWNocqTgQR28CAh0KcP0SJm8JzAbHIeTGFN8kG5GNe7-u6g4HcQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL-ifqUxQAFBnBmElaZzYLZKW00msWGxizRBiunQz5uxAiBbm0ahV4n-WN9BxaFR2guv9RIGUy6ZPadPjezQBHSxjA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="TN" group-title="Noticias" ,TN NOTICIAS
@@ -173,3 +171,4 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
