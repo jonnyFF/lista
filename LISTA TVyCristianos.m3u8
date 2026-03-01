@@ -124,8 +124,10 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 
 #EXTINF:-1 tvg-id="National Geographic"  group-title="Documentales" ,National Geographic
 http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
+
 #EXTINF:-1 tvg-id="Encuentro"  group-title="Culturales" ,Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+
 #EXTINF:-1 tvg-id="Discovery Home & Health"  group-title="Documentales" ,Discovery Home & Health
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
 
@@ -144,8 +146,9 @@ http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport"  group-title="Deporte" ,Fox Sport
 https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
 
-#EXTINF:-1 tvg-id="Fox Sport 2"  group-title="Deporte" ,Fox Sport 2
-http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Sport Premiun"  group-title="Deporte" ,Fox Sport Premiun
+https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
+
 #EXTINF:-1 tvg-id="Fox Sport3"  group-title="Deporte" ,Fox Sport3
 http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
 #EXTINF:-1 tvg-id="Fox Sport MXC"  group-title="Deporte" ,Fox Sport MXC
@@ -211,6 +214,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
