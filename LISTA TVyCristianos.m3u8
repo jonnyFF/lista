@@ -36,7 +36,7 @@ http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 
 #EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/59_.m3u8?token=UQjhHqNazF84wHv-NCp2mA&expires=1772440558
 
 #EXTINF:-1 tvg-id="AXN"  group-title="Peliculas" ,AXN
 http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
@@ -209,6 +209,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
