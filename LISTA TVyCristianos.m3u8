@@ -44,9 +44,6 @@ http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="Infantil" ,PlanetaTV Kids
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
 
-#EXTINF:-1 tvg-id="Dragon Ball"  group-title="Infantil" ,Dragon Ball
-http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
-
 #EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
 
@@ -132,7 +129,8 @@ http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0dj&f=.m3u8&token=tecnotokenplustv230516F
 
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
+
 #EXTINF:-1 tvg-id="National Geographic"  group-title="Documentales" ,National Geographic
 http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
 #EXTINF:-1 tvg-id="Encuentro"  group-title="Culturales" ,Encuentro
@@ -170,8 +168,9 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index_4.m3u8
 #EXTINF:-1 tvg-id="ESPN 3"  group-title="Deporte" ,ESPN 3
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
-http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8
+https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/4_.m3u8?token=ir047Zp2nHUu3wGYOx5C-A&expires=1772428310
 
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
@@ -212,6 +211,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
