@@ -117,7 +117,7 @@ http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/44_.m3u8?token=Z8iWwGeWVPqWQqdHoX6j7Q&expires=1772439993
 
 #EXTINF:-1 tvg-id="History 2"  group-title="Peliculas" ,History 2
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0dj&f=.m3u8&token=tecnotokenplustv230516F
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/45_.m3u8?token=rNSQqP72Bksx5xmWecedTw&expires=1772440181
 
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
@@ -209,6 +209,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
