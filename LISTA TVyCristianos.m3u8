@@ -166,8 +166,9 @@ http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="AFA PLAY" group-title="Deporte" ,AFA PLAY
 https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index_4.m3u8
-#EXTINF:-1 tvg-id="ESPN 3"  group-title="Deporte" ,ESPN 3
-http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
+https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/5_.m3u8?token=jVngtrJP9CeDrJoIbfYHnw&expires=1772428509
 
 #EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/4_.m3u8?token=ir047Zp2nHUu3wGYOx5C-A&expires=1772428310
@@ -211,6 +212,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
