@@ -54,7 +54,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
 
 #EXTINF:-1 tvg-id="A&E"  group-title="Peliculas" ,A&E
-http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch3&token=tecnotokenplustv230516F&f=.m3u8
 
 #EXTINF:-1 tvg-id="History HD"  group-title="Documentales" ,History HD
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/44_.m3u8?token=Z8iWwGeWVPqWQqdHoX6j7Q&expires=1772439993
@@ -159,6 +159,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
