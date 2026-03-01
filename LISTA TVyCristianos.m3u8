@@ -106,10 +106,9 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 #EXTINF:-1 tvg-id="TyC Sport Inter"  group-title="Deporte" ,TyC Sport Inter
 http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DeporTv"  group-title="Deporte" ,DeporTv
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="AFA PLAY" group-title="Deporte" ,AFA PLAY
-https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/index_4.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
 http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
@@ -159,6 +158,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
