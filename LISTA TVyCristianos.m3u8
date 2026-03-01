@@ -170,6 +170,9 @@ https://d35ft96448qn3i.cloudfront.net/out/v1/d3e020e33a554f67919b2c3061a306a6/in
 #EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/5_.m3u8?token=jVngtrJP9CeDrJoIbfYHnw&expires=1772428509
 
+#EXTINF:-1 tvg-id="ESPN"  group-title="Deporte" ,ESPN
+https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/13_.m3u8?token=wSvL-YkI4a7KORiADi1Ycg&expires=1772428624
+
 #EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/4_.m3u8?token=ir047Zp2nHUu3wGYOx5C-A&expires=1772428310
 
@@ -212,6 +215,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
