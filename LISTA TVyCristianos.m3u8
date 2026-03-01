@@ -73,43 +73,64 @@ http://170.254.18.106/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Plus ING"  group-title="Peliculas" ,HBO Plus ING
 http://170.254.18.106/HBO_PLUS/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO PLUS LAT"  group-title="Peliculas" ,HBO PLUS LAT
 http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO Extreme"  group-title="Peliculas" ,HBO Extreme
 http://170.254.18.106/HBO_XTREME/index.m3u8
+
 #EXTINF:-1 tvg-id="USA"  group-title="Peliculas" ,USA
 http://stream.flynetwifi.com:1935/live/mobile-059/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT HD"  group-title="Peliculas" ,TNT HD
 http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+
 #EXTINF:-1 tvg-id="TNT Series HD"  group-title="Peliculas" ,TNT Series HD
 http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
 http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cinerama TV"  group-title="Peliculas" ,Cinerama TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
 #EXTINF:-1 tvg-id="De Peliculas"  group-title="Peliculas" ,De Peliculas
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TN NOTICIAS"  group-title="NOTICIAS" ,TN NOTICIAS
+https://www.youtube.com/c/todonoticias/live
+
 #EXTINF:-1 tvg-id="Telemax"  group-title="Peliculas" ,Telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Warner Channel HD"  group-title="Peliculas" ,Warner Channel HD
 http://stream.flynetwifi.com:1935/live/mobile-030/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Universal tv"  group-title="Peliculas" ,Universal tv
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="Universal Premier"  group-title="Peliculas" ,Universal Premier
 http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+
 #EXTINF:-1 tvg-id="Cine Ar"  group-title="Peliculas" ,Cine Ar
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Paramount"  group-title="Peliculas" ,Paramount
 http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
+
 #EXTINF:-1 tvg-id="Sony"  group-title="Peliculas" ,Sony
 http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
+
 #EXTINF:-1 tvg-id="A&E"  group-title="Peliculas" ,A&E
 http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
 #EXTINF:-1 tvg-id="History HD"  group-title="Documentales" ,History HD
 http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
+
 #EXTINF:-1 tvg-id="History 2"  group-title="Peliculas" ,History 2
-http://stream.flynetwifi.com:1935/live/mobile-157/playlist.m3u8
+http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0dj&f=.m3u8&token=tecnotokenplustv230516F
+
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="National Geographic"  group-title="Documentales" ,National Geographic
@@ -187,6 +208,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
