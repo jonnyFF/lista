@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Tv Publica" group-title="Noticias" ,Tv Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/4_.m3u8?token=808Fyl0PvnlFAmJ3SBjz8Q&expires=1772441969
 
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
@@ -12,79 +12,22 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/3_.m3u8?token=mdImMioEVlV7KhcfhhgYBw&expires=1772439650
 
 #EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
-http://clubtv.link/AB0104/key4513/lista1.php?c=a01l&token=TecntvGeneradorTV&f=.m3u8
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/31_.m3u8?token=6X9PNn6_ne6Clh1M4R-32Q&expires=1772441494
 
 #EXTINF:-1 tvg-id="I-Sat "  group-title="Infantil" ,I-sat
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b2&f=.m3u8&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="Discovery Kids HD"  group-title="Infantil" ,Discovery Kids HD
-http://181.205.130.194:4000/play/a0ac/index.m3u8
-
-#EXTINF:-1 tvg-id=" Disney Channel "  group-title="Infantil" ,Disney Channel 
-http://clubtv.link/AB0104/key4513/lista1.php?c=a06c&token=TecntvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior"  group-title="Infantil" ,Disney Junior
-http://clubtv.link/AB0104/key4513/lista1.php?c=a026&token=TecntvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-id="Magic Kids"  group-title="Infantil" ,Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-
-#EXTINF:-1 tvg-id="Nick Junior"  group-title="Infantil" ,Nick Junior
-http://stream.flynetwifi.com:1935/live/mobile-011/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PlanetaTV Kids"  group-title="Infantil" ,PlanetaTV Kids
-https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?tecnotv
-
 #EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/59_.m3u8?token=UQjhHqNazF84wHv-NCp2mA&expires=1772440558
-
-#EXTINF:-1 tvg-id="AXN"  group-title="Peliculas" ,AXN
-http://stream.flynetwifi.com:1935/live/mobile-048/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax"  group-title="Peliculas" ,Cinemax
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a093&f=.m3u8&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="HBO "  group-title="Peliculas" ,HBO
-http://clubtv.link/AB0104/key4513/lista.php?c=a01m&token=TecntvGeneradorTV&f=.m3u8
-
-#EXTINF:-1 tvg-id="HBO LAT"  group-title="Peliculas" ,HBO LAT
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO 2 ING"  group-title="Peliculas" ,HBO 2 ING
-http://170.254.18.106/HBO2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO 2 LAT"  group-title="Peliculas" ,HBO 2 LAT
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Family"  group-title="Peliculas" ,HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Plus ING"  group-title="Peliculas" ,HBO Plus ING
-http://170.254.18.106/HBO_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO PLUS LAT"  group-title="Peliculas" ,HBO PLUS LAT
-http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO Extreme"  group-title="Peliculas" ,HBO Extreme
-http://170.254.18.106/HBO_XTREME/index.m3u8
-
 #EXTINF:-1 tvg-id="USA"  group-title="Peliculas" ,USA
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/57_.m3u8?token=n-jZCsy5FMcmmcy2Cr8n9Q&expires=1772440732
 
-#EXTINF:-1 tvg-id="TNT HD"  group-title="Peliculas" ,TNT HD
-http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
-
-#EXTINF:-1 tvg-id="TNT Series HD"  group-title="Peliculas" ,TNT Series HD
-http://stream.flynetwifi.com:1935/live/mobile-046/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/56_.m3u8?token=cqZP39epYZ9eZDoeC4UM8w&expires=1772440498
-
-#EXTINF:-1 tvg-id="Cinerama TV"  group-title="Peliculas" ,Cinerama TV
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-
-#EXTINF:-1 tvg-id="De Peliculas"  group-title="Peliculas" ,De Peliculas
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TN NOTICIAS"  group-title="NOTICIAS" ,TN NOTICIAS
 https://www.youtube.com/c/todonoticias/live
@@ -214,6 +157,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
