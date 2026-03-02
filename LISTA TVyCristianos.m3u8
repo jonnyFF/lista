@@ -23,6 +23,9 @@ https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/3_.m3u8?token=m
 #EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
 http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
 
+#EXTINF:-1 tvg-id="Disney Chanel "  group-title="Infantil" ,Disney Chanel
+http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
+
 #EXTINF:-1 tvg-id="I-Sat "  group-title="Infantil" ,I-sat
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b2&f=.m3u8&token=tecnotokenplustv230516F
 
@@ -146,6 +149,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
