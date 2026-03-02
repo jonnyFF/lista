@@ -83,7 +83,7 @@ http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel "  group-title="Documentales" ,Discovery Channel 
 http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0ep&f=.m3u8&token=tecnotokenplustv230516F
 
-#EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animat Planet
+#EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/46_.m3u8?token=p8DnNHRXh5ZpGlDggLTLPQ&expires=1772440374
 
 #EXTINF:-1 tvg-id="Fox Sport"  group-title="Deporte" ,Fox Sport
@@ -149,6 +149,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
