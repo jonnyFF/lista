@@ -111,7 +111,7 @@ http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
+https://qbk4f.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=4e7b9dbbbe5f9c956b1213c2fb6ec58be24471f4-eb-1772456384-1772402384
 
 #EXTINF:-1 tvg-id="ESPN"  group-title="Deporte" ,ESPN
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/13_.m3u8?token=wSvL-YkI4a7KORiADi1Ycg&expires=1772428624
@@ -152,6 +152,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vdo.grupolimalive.com:3263/live/mcnlive.m3u8
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
