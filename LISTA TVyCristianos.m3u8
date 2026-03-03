@@ -59,7 +59,7 @@ http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gt&token=tecnotokenplustv230516
 #EXTINF:-1 tvg-id="History HD"  group-title="Documentales" ,History HD
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/44_.m3u8?token=Z8iWwGeWVPqWQqdHoX6j7Q&expires=1772439993
 
-#EXTINF:-1 tvg-id="History 2"  group-title="Peliculas" ,History 2
+#EXTINF:-1 tvg-id="History 2"  group-title="Documentales" ,History 2
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/45_.m3u8?token=rNSQqP72Bksx5xmWecedTw&expires=1772440181
 
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
@@ -151,6 +151,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
