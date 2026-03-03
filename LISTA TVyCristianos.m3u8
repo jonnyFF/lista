@@ -41,6 +41,9 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FOX SPORT" group-title="Deporte" ,FOX SPORT
+https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4yMjIuMjA4/8_.m3u8?token=ZR6_rkX-gTuhaIcCOpF5Qg&expires=1772613707
+
 #EXTINF:-1 tvg-id="ESPN PREMIUM" group-title="Deporte" ,ESPN PREMIUM
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4yMjIuMjA4/5_.m3u8?token=snZ3Efz0DerlXIl8XhcQ-g&expires=1772613597
 
@@ -67,6 +70,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
