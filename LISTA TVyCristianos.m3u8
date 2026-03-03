@@ -93,7 +93,7 @@ https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.10
 https://tk0hz.envivoslatam.org/fox2ar/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=6b9cef519bc1f9c7d4fa37c182e53ae7b8d2842a-e5-1772444489-1772390489
 
 #EXTINF:-1 tvg-id="DirecTv Sport 1"  group-title="Deporte" ,DirecTv Sport 1
-https://tk0hz.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=fac94d9c623a117224bbf1307a93cdb938a0d351-49-1772444635-1772390635
+https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=0e7ef8f2b69c292aeb88c612e3694438d1ae8c53-91-1772543366-1772489366
 
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
@@ -105,7 +105,7 @@ http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
-https://rci1w.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=0e82ef0dcc2ed5ba342810b927c64e54895d4458-cd-1772540656-1772486656
+https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=b67ce58b9a6d3447665b4ac8a634df19bd3e76bd-84-1772515543-1772497543
 
 #EXTINF:-1 tvg-id="Tigo Sport"  group-title="Deporte" ,Tigo Sport
 https://kh5vy.envivoslatam.org/fanatiz1/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=51f45cba08b47373d49731384ba608fad71ee00a-d9-1772540719-1772486719
@@ -151,6 +151,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
