@@ -17,6 +17,9 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Canal 13.2" group-title="Noticias" ,Canal 13.2
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/4_.m3u8?token=BFFq0nIEAT4-6BHvkGVamw&expires=1772624596
+
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/64d68b93-9a39-423d-a1aa-66055cfcde28:SCL2/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
@@ -70,6 +73,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
