@@ -4,6 +4,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Canal 9" group-title="Noticias" ,Canal 9
 https://bit.ly/4b25NPb
+
 #EXTINF:-1 tvg-id="Canal 9.2" group-title="Noticias" ,Canal 9.2
 https://bit.ly/40MF2cB
 
@@ -22,113 +23,17 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/64d68b9
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1772574882~exp=1772582082~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=0d261805ac8450bd16311ac930873ccbbde73027073a08ee3ee98b6a1ebb3337
 
-#EXTINF:-1 tvg-id="CARTOON NT "  group-title="Infantil" ,CARTOON NT
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="Disney Chanel "  group-title="Infantil" ,Disney Chanel
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0l0&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="I-Sat "  group-title="Infantil" ,I-sat
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0b2&f=.m3u8&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/59_.m3u8?token=UQjhHqNazF84wHv-NCp2mA&expires=1772440558
-
-#EXTINF:-1 tvg-id="Cinemax"  group-title="Peliculas" ,Cinemax
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a093&f=.m3u8&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-id="HBO Family"  group-title="Peliculas" ,HBO Family
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch22&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="Universal"  group-title="Peliculas" ,Universal
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch10&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="USA"  group-title="Peliculas" ,USA
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/57_.m3u8?token=n-jZCsy5FMcmmcy2Cr8n9Q&expires=1772440732
-
-#EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/56_.m3u8?token=cqZP39epYZ9eZDoeC4UM8w&expires=1772440498
-
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Peliculas" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="Paramount"  group-title="Peliculas" ,Paramount
-http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
-
-#EXTINF:-1 tvg-id="Sony"  group-title="Peliculas" ,Sony
-http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
-
-#EXTINF:-1 tvg-id="A&E"  group-title="Peliculas" ,A&E
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0gt&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="History HD"  group-title="Documentales" ,History HD
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/44_.m3u8?token=Z8iWwGeWVPqWQqdHoX6j7Q&expires=1772439993
-
-#EXTINF:-1 tvg-id="History 2"  group-title="Documentales" ,History 2
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/45_.m3u8?token=rNSQqP72Bksx5xmWecedTw&expires=1772440181
 
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 
-#EXTINF:-1 tvg-id="National Geographic"  group-title="Documentales" ,National Geographic
-http://tecnotv.club/FEB27/phpcode/geomex.php?c=a0kk&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="Encuentro"  group-title="Culturales" ,Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Home & Health"  group-title="Documentales" ,Discovery Home & Health
-http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch23&token=tecnotokenplustv230516F&f=.m3u8
-
-#EXTINF:-1 tvg-id="Discovery World"  group-title="Documentales" ,Discovery World
-http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Channel "  group-title="Documentales" ,Discovery Channel 
-http://tecnotv.club/FEB27/phpcode/lista2.php?c=a0ep&f=.m3u8&token=tecnotokenplustv230516F
-
-#EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuMTA2/46_.m3u8?token=p8DnNHRXh5ZpGlDggLTLPQ&expires=1772440374
-
-#EXTINF:-1 tvg-id="Fox Sport"  group-title="Deporte" ,Fox Sport
-https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
-
-#EXTINF:-1 tvg-id="Fox Sport Premiun"  group-title="Deporte" ,Fox Sport Premiun
-https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=1737287af833b619b2d40a740062c85f291b97c4-f2-1772442848-1772388848
-
-#EXTINF:-1 tvg-id="Fox Sport2"  group-title="Deporte" ,Fox Sport2
-https://tk0hz.envivoslatam.org/fox2ar/tracks-v1a1/mono.m3u8?ip=148.222.194.106&token=6b9cef519bc1f9c7d4fa37c182e53ae7b8d2842a-e5-1772444489-1772390489
-
-#EXTINF:-1 tvg-id="DirecTv Sport 1"  group-title="Deporte" ,DirecTv Sport 1
-https://kh5vy.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=0e7ef8f2b69c292aeb88c612e3694438d1ae8c53-91-1772543366-1772489366
-
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
-#EXTINF:-1 tvg-id="TyC Sport Inter"  group-title="Deporte" ,TyC Sport Inter
-http://stream.flynetwifi.com:1935/live/mobile-005/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeporTv"  group-title="Deporte" ,DeporTv
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN PREMIUN"  group-title="Deporte" ,ESPN PREMIUN
-https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=b67ce58b9a6d3447665b4ac8a634df19bd3e76bd-84-1772515543-1772497543
-
-#EXTINF:-1 tvg-id="Tigo Sport"  group-title="Deporte" ,Tigo Sport
-https://kh5vy.envivoslatam.org/fanatiz1/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=51f45cba08b47373d49731384ba608fad71ee00a-d9-1772540719-1772486719
-
-#EXTINF:-1 tvg-id="ESPN"  group-title="Deporte" ,ESPN
-https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4xOTQuMTA2/13_.m3u8?token=wSvL-YkI4a7KORiADi1Ycg&expires=1772428624
-
-#EXTINF:-1 tvg-id="ESPN2"  group-title="Deporte" ,ESPN2
-https://kh5vy.envivoslatam.org/espn2/tracks-v1a1/mono.m3u8?ip=143.105.137.208&token=fa79d110b50787eb80874151db85af16f17c8cc1-20-1772540572-1772486572
-
-#EXTINF:-1 tvg-id="TNT Sport "  group-title="Deporte" ,TNT Sport
-https://anvtcax.fubohd.com/tntsports/mono.m3u8?token=9ceb56f20fd4015c13d9e344f613784417a18037-2a-1772515158-1772497158
-
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports2"  group-title="Deporte" ,Bein Sports2
-http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -136,26 +41,22 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Rural"  group-title="Culturales" ,Canal Rural
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Enlace Juvenil"  group-title="Cristianas" ,Enlace Juvenil
 https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/chunklist_b2752000_sleng.m3u8
-#EXTINF:0 tvg-id="Ebenezer tv"  group-title="Cristianas" ,Ebenezer tv
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
-#EXTINF:0 tvg-id="Zoe TV"  group-title="Cristianas" ,Zoe TV
-https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u8
+
 #EXTINF:-1 tvg-id="ElCamino "  group-title="Cristianas" ,ElCamino 
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w1189769782.m3u8
+
 #EXTINF:-1 tvg-id="Dios tv"  group-title="Cristianas" ,Dios tv
 https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="Vida Abundante"  group-title="Cristianas" ,Vida Abundante
 https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
-#EXTINF:-1 tvg-id="RTVida TV"  group-title="Cristianas" ,RTVida TV
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
