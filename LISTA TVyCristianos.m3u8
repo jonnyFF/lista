@@ -38,6 +38,9 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 #EXTINF:-1 tvg-id="History"  group-title="Documentales" ,History
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/44_.m3u8?token=GYudCffk62L8ay5vdp3YYQ&expires=1772624136
 
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL"  group-title="Documentales" ,DISCOVERY CHANNEL
+https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/37_.m3u8?token=pVrRLHaPpDs0oUHsCnUNQw&expires=1772624678
+
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
@@ -73,6 +76,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
