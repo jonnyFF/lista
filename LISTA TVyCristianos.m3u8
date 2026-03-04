@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Canal 9" group-title="Noticias" ,Canal 9
-https://bit.ly/4b25NPb
-
 #EXTINF:-1 tvg-id="Canal 9.2" group-title="Noticias" ,Canal 9.2
 https://bit.ly/40MF2cB
 
@@ -82,6 +79,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
