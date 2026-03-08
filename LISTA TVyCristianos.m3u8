@@ -57,7 +57,7 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://deportes.ksdjugfsddeports.com:9092/MTQ4LjIyMi4yMjIuMjA4/8_.m3u8?token=ZR6_rkX-gTuhaIcCOpF5Qg&expires=1772613707
 
 #EXTINF:-1 tvg-id="ESPN PREMIUM" group-title="Deporte" ,ESPN PREMIUM
-https://pvtn5y.envivoslatam.org/espnpremium/tracks-v1a1/mono.m3u8?ip=148.222.222.208&token=012bbd8b4d9af033f0c888b645ffdb502bc1e700-94-1772714085-1772660085
+https://deportes.ksdjugfsddeports.com:9092/MTQzLjEwNS4xMzcuMTkw/5_.m3u8?token=l0uiOMAdWS72gx8X-ryylw&expires=1772975887
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
@@ -82,5 +82,6 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
