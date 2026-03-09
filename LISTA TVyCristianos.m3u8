@@ -30,7 +30,7 @@ http://107.152.39.199:8030/hls/canal13.m3u8
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/56_.m3u8?token=jR1nAjYrz5DItC0toc2_HQ&expires=1772624017
+https://regionales.saohgdasregions.fun:9092/OTguOTcuMTM0LjE0/56_.m3u8?token=aOzFSPyPwZ6xpzlzeDbbmA&expires=1773106527
 
 #EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/59_.m3u8?token=3SZ1tTzFB2Aeyj-7uWr2xA&expires=1772632800
@@ -85,6 +85,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
