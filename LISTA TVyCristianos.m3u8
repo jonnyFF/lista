@@ -15,7 +15,7 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://186.0.248.91:20202/Live/24df54009f620cd429157d57c89e6b4a/eltrece.playlist.m3u8
 
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -82,6 +82,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
