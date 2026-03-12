@@ -41,6 +41,9 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 #EXTINF:-1 tvg-id="History"  group-title="Documentales" ,History
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/44_.m3u8?token=GYudCffk62L8ay5vdp3YYQ&expires=1772624136
 
+#EXTINF:-1 tvg-id="HBO Family"  group-title="Documentales" ,HBO Family
+https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczNDkwNTg1Iiwic2lwIjoiMTI5LjIyNC4yMTUuMTc0IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0hCT19GYW1pbHkvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiNWUyMDM4ODZlNzhmOTAzYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.1iO2V6SbtK1j2QI77LrOPoTKaAgga5kfHd6i5Ida2nPXA8iDWCl6aukkdSbDMZKUXyDmkZblDqhTzDyp1SpBIg==/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family-avc1_2499968=20-scale=30000-p=349459018787466-10597421981503.mp4
+
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL"  group-title="Documentales" ,DISCOVERY CHANNEL
 https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/37_.m3u8?token=pVrRLHaPpDs0oUHsCnUNQw&expires=1772624678
 
@@ -85,6 +88,7 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 
 
 
