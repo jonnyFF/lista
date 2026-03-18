@@ -51,6 +51,9 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="Fox sport"  group-title="Deporte" ,Fox sport
 https://qzv4jmsc.fubohd.com/foxsports/mono.m3u8?token=dc9b7479091e249192a5fa25727e95c4bd6caf71-f9-1773893625-1773875625
 
+#EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
+https://aw1wcm92zq.fubohd.com/tntsports/mono.m3u8?token=a7a8f3fbd89644efb4a662daedd24250896a26fe-84-1773893716-1773875716
+
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
