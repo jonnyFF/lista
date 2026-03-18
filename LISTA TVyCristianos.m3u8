@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Boca" group-title="Deporte" ,Boca
+#EXTINF:-1 tvg-id="Especial Partidos Boca" group-title="Deporte" ,Especial Partidos Boca
 https://smjt9q.envivoslatam.org/fanatiz6/tracks-v1a1/mono.m3u8?ip=129.224.215.174&token=d14b50e777586c68e72f49dc03efb9dd2e502f47-41-1773667360-1773613360
 
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
