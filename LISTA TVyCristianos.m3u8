@@ -63,9 +63,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Garage TV" group-title="Culturales",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
