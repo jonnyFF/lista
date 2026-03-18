@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="Especial Partidos Boca" group-title="Deporte" ,Especial Partidos Boca
 https://smjt9q.envivoslatam.org/fanatiz6/tracks-v1a1/mono.m3u8?ip=129.224.215.174&token=d14b50e777586c68e72f49dc03efb9dd2e502f47-41-1773667360-1773613360
 
+
+#EXTINF:-1 tvg-id="Especial Partidos River" group-title="Deporte" ,Especial Partidos River
+
+
 #EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 
@@ -35,41 +39,17 @@ https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
 https://regionales.saohgdasregions.fun:9092/MTI5LjIyNC4yMTUuMTc0/56_.m3u8?token=7q7u7YWjSSvkKjxmC55baQ&expires=1773362272
 
-#EXTINF:-1 tvg-id="Cinecanal"  group-title="Peliculas" ,Cinecanal
-https://regionales.saohgdasregions.fun:9092/MTI5LjIyNC4yMTUuMTc0/59_.m3u8?token=m2-wqwmNauNV0Df9SnLkOQ&expires=1773361945
-
 #EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
-
-#EXTINF:-1 tvg-id="History"  group-title="Documentales" ,History
-https://regionales.saohgdasregions.fun:9092/MTI5LjIyNC4yMTUuMTc0/44_.m3u8?token=7t9Civkq67FgQS6k0ARmgg&expires=1773366687
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 
-#EXTINF:-1 tvg-id="HBO Family"  group-title="Documentales" ,HBO Family
-https://edge6-ccast-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzczNDkwNTg1Iiwic2lwIjoiMTI5LjIyNC4yMTUuMTc0IiwicGF0aCI6Ii9saXZlL2M2ZWRzL0hCT19GYW1pbHkvU0FfTGl2ZV9kYXNoX2VuY19DLyIsInNlc3Npb25fY2RuX2lkIjoiNWUyMDM4ODZlNzhmOTAzYyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4NSwxNDQsODYsODhdfQ==.1iO2V6SbtK1j2QI77LrOPoTKaAgga5kfHd6i5Ida2nPXA8iDWCl6aukkdSbDMZKUXyDmkZblDqhTzDyp1SpBIg==/live/c6eds/HBO_Family/SA_Live_dash_enc_C/HBO_Family-avc1_2499968=20-scale=30000-p=349459018787466-10597421981503.mp4
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL"  group-title="Documentales" ,DISCOVERY CHANNEL
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4yMjIuMjA4/37_.m3u8?token=pVrRLHaPpDs0oUHsCnUNQw&expires=1772624678
-
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
-#EXTINF:-1 tvg-id="DAZN F1"  group-title="Deporte" ,DAZN F1
-https://deportes.ksdjugfsddeports.com:9092/MTQzLjEwNS4xMzcuMTkw/27_.m3u8?token=FM9NeChQNU1HsDdOGR7mlA&expires=1772975751
-
-#EXTINF:-1 tvg-id="TNT SPORT PREMIUM"  group-title="Deporte" ,TNT SPORT PREMIUM
-https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=5ac8244d1f96aefa6fa2e6953b4bfadd8e9da760-d9-1773639373-1773621373
-
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FOX SPORT" group-title="Deporte" ,FOX SPORT
-https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=d6f8cf73eeea665680f2bc4063445b0109b09753-64-1773284945-1773266945
-
-#EXTINF:-1 tvg-id="ESPN PREMIUM" group-title="Deporte" ,ESPN PREMIUM
-https://qzv4jmsc.fubohd.com/espnpremium/mono.m3u8?token=6602daf597c54809918f7930e9078bcd543a44f2-18-1773632943-1773614943
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
