@@ -25,7 +25,7 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
-http://186.0.248.91:20202/Live/2c853b3092c546406d3c69e710d9d25e/eltrece.playlist.m3u8
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
