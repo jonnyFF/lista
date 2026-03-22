@@ -26,6 +26,9 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal 13 HD" group-title="Noticias" ,Canal 13 HD
+http://107.152.39.199:8030/hls/canal21.m3u8
+
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
