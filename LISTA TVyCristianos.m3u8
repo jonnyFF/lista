@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Especial Partidos Boca" group-title="Deporte" ,Especial Partidos Boca
-https://wp9xqedt.fubohd.com/dsports/mono.m3u8?token=072ff4e397a74bc13990e009fa5da27faad7897a-9e-1774158739-1774140739
+https://bgfuzq.fubohd.com/espn/mono.m3u8?token=dcc9f8d6e388b18e54e2aac213aa4b9a720d99e2-35-1774220410-1774202410
 
 #EXTINF:-1 tvg-id="Especial Partidos River" group-title="Deporte" ,Especial Partidos River
 https://ym9yzq.fubohd.com/espn5/mono.m3u8?token=744f9f0c25b88759c0bbfa8732c3ac44faf4e4e6-2c-1774220226-1774202226
@@ -49,6 +49,9 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
 #EXTINF:-1 tvg-id="Fox sport"  group-title="Deporte" ,Fox sport
 https://j8nte.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=148.222.194.64&token=d821f2885feed0788fa64be09d5ff3158ff1b46f-fc-1774186816-1774132816
+
+#EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
+https://x4bnd7lq.fubohd.com/espnpremium/mono.m3u8?token=e3a1a7aa4fbc035c377cc65733d35d78fa58378c-96-1774220439-1774202439
 
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 https://anvtcax.fubohd.com/tntsports/mono.m3u8?token=f5d1c653590fd2e8a82b4c5374bde5c5a3bedcec-b8-1774220093-1774202093
