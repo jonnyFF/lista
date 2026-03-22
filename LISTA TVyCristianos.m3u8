@@ -56,6 +56,9 @@ https://x4bnd7lq.fubohd.com/espnpremium/mono.m3u8?token=e3a1a7aa4fbc035c377cc657
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 https://anvtcax.fubohd.com/tntsports/mono.m3u8?token=f5d1c653590fd2e8a82b4c5374bde5c5a3bedcec-b8-1774220093-1774202093
 
+#EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
+http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/deportv.playlist.m3u8
+
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
