@@ -6,7 +6,7 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 #EXTINF:-1 tvg-id="Canal 26" group-title="Noticias" ,Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Cronica" group-title="Noticias" ,Cronica
-http://186.0.248.91:20202/Live/24df54009f620cd429157d57c89e6b4a/CronicaTv_480.m3u8
+http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/CronicaTv.playlist.m3u8
 #EXTINF:-1 tvg-id="TN NOTICIAS" group-title="Noticias" ,TN NOTICIAS
 http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/tn_720.m3u8
 #EXTINF:-1 tvg-id="Canal 7" group-title="Noticias" ,Canal 7
@@ -36,7 +36,7 @@ https://14c51.streameasthd.net/global/espn7/index.m3u8?token=1e61627adff105214dc
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 https://doc1.streameasthd.net/global/tntsports/index.m3u8?token=ebe4ef61b43206bc7f34886c3097f2b48eca700d-b5-1774310444-1774256444&ip=148.222.194.64
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
-http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/deportv.playlist.m3u8
+http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/deportv_720.m3u8
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
@@ -57,3 +57,6 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Caracol TV" group-title="Peliculas",Caracol TV
 http://107.152.39.199:8030/hls/canal1.m3u8
+#EXTINF:-1 tvg-id="FIFA +" group-title="Deporte",FIFA +
+http://107.152.39.199:8030/hls/canal1.m3u8
+
