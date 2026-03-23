@@ -45,18 +45,17 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="Fox sport"  group-title="Deporte" ,Fox sport
 https://24a1.streameasthd.net/fox1ar/tracks-v1a1/mono.m3u8?ip=148.222.194.64&token=42af7bd3fb9a9eedeb1879710fc4b39495aad253-c8-1774267045-1774213045
 
-
 #EXTINF:-1 tvg-id="Fox sport 2"  group-title="Deporte" ,Fox sport 2
-https://streamtpnew.com/global1.php?stream=fox2ar
+https://14c51.streameasthd.net/global/fox2ar/index.m3u8?token=834138a3578cae334eb5b90e6e4d4735efca3336-96-1774310407-1774256407&ip=148.222.194.64
 
 #EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
 https://98ca2.streameasthd.net/global/espnpremium/index.m3u8?token=84b940224d88cf29dd9e6005181ec4f821c0f0e3-56-1774310255-1774256255&ip=148.222.194.64
 
 #EXTINF:-1 tvg-id="Espn 7"  group-title="Deporte" ,Espn 7
-https://streamtpnew.com/global1.php?stream=espn7
+https://14c51.streameasthd.net/global/espn7/index.m3u8?token=1e61627adff105214dc9d10eb58c738f7c59b1c2-df-1774310426-1774256426&ip=148.222.194.64
 
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
-https://streamtpnew.com/global1.php?stream=tntsports
+https://doc1.streameasthd.net/global/tntsports/index.m3u8?token=ebe4ef61b43206bc7f34886c3097f2b48eca700d-b5-1774310444-1774256444&ip=148.222.194.64
 
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
 http://186.0.248.91:20202/Live/0f5066da837056d3c04b96c81a93de5b/deportv.playlist.m3u8
