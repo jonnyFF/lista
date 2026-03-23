@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0otTO9Cd9TUdXoUkSyrX1gllD_-yOw8ddqQ&s" tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
+#EXTINF:-1 tvg-id="Canal 9 Litoral" group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal 9" group-title="Noticias" ,Canal 9
 http://107.152.39.199:8030/hls/canal7.m3u8
