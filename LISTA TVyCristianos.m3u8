@@ -57,6 +57,9 @@ https://streamtpnew.com/global1.php?stream=fox2ar
 #EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
 https://24a1.streameasthd.net/global/espn/index.m3u8?token=a8e8ef9b6128e143515113e3d27793ef07e37c87-9c-1774266979-1774212979&ip=148.222.194.64
 
+#EXTINF:-1 tvg-id="Espn 7"  group-title="Deporte" ,Espn 7
+https://streamtpnew.com/global1.php?stream=espn7
+
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 https://streamtpnew.com/global1.php?stream=tntsports
 
