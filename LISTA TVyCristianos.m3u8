@@ -19,10 +19,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Peliculas" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Space"  group-title="Peliculas" ,Space
-https://regionales.saohgdasregions.fun:9092/MTQ4LjIyMi4xOTQuNjQ=/56_.m3u8?token=YQ3v_GasNlmGzqloia-FUA&expires=1774182927
-#EXTINF:-1 tvg-id="Garage TV"  group-title="Documentales" ,Garage TV
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CGARAGETV__
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
