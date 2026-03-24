@@ -43,6 +43,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157585
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157620
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA +" group-title="Deporte",FIFA +
+http://107.152.39.199:8030/hls/canal1.m3u8
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
@@ -61,6 +63,14 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Caracol TV" group-title="Peliculas",Caracol TV
 http://107.152.39.199:8030/hls/canal1.m3u8
-#EXTINF:-1 tvg-id="FIFA +" group-title="Deporte",FIFA +
-http://107.152.39.199:8030/hls/canal1.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="Peliculas",HBO
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9668
+#EXTINF:-1 tvg-id="HBO 2" group-title="Peliculas",HBO 2
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9673
+#EXTINF:-1 tvg-id="HBO Family" group-title="Peliculas",HBO Family
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9678
+#EXTINF:-1 tvg-id="HBO +" group-title="Peliculas",HBO +
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9688
+
+
 
