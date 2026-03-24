@@ -27,7 +27,8 @@ https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9812
 #EXTINF:-1 tvg-id="Discovery Channel"  group-title="Documentales" ,Discovery Channel
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9814
-
+#EXTINF:-1 tvg-id="Discovery Home & Health"  group-title="Documentales" ,Discovery Home & Health
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9821
 
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
