@@ -17,10 +17,15 @@ http://107.152.39.199:8030/hls/canal12.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
+
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Radio" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9812
+
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deporte" ,Directv Sport1
@@ -45,10 +50,12 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157620
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFA +" group-title="Deporte",FIFA +
 http://107.152.39.199:8030/hls/canal1.m3u8
+
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Enlace Juvenil"  group-title="Cristianas" ,Enlace Juvenil
@@ -61,6 +68,7 @@ https://s.emisoras.tv:8081/diostevetv/tracks-v1a1/mono.m3u8
 https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 #EXTINF:-1 tvg-id="RTVida tv"  group-title="Cristianas" ,RTVida tv
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
 #EXTINF:-1 tvg-id="Caracol TV" group-title="Peliculas",Caracol TV
 http://107.152.39.199:8030/hls/canal1.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="Peliculas",HBO
