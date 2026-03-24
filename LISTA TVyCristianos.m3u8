@@ -30,9 +30,9 @@ https://doc1.streameasthd.net/fox1ar/index.m3u8?token=820a1a953d8ccc596e72e8b6ae
 #EXTINF:-1 tvg-id="Fox sport 2"  group-title="Deporte" ,Fox sport 2
 https://14c51.streameasthd.net/global/fox2ar/index.m3u8?token=834138a3578cae334eb5b90e6e4d4735efca3336-96-1774310407-1774256407&ip=148.222.194.64
 #EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
-https://98ca2.streameasthd.net/global/espnpremium/index.m3u8?token=84b940224d88cf29dd9e6005181ec4f821c0f0e3-56-1774310255-1774256255&ip=148.222.194.64
-#EXTINF:-1 tvg-id="Espn 7"  group-title="Deporte" ,Espn 7
-https://14c51.streameasthd.net/global/espn7/index.m3u8?token=1e61627adff105214dc9d10eb58c738f7c59b1c2-df-1774310426-1774256426&ip=148.222.194.64
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157562
+#EXTINF:-1 tvg-id="Espn"  group-title="Deporte" ,Espn
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157558
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157585
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
