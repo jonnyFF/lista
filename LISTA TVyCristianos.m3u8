@@ -17,7 +17,7 @@ http://107.152.39.199:8030/hls/canal12.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
-#EXTINF:-1 tvg-id="La 100 Radio"  group-title="Peliculas" ,La 100 Radio
+#EXTINF:-1 tvg-id="La 100 Radio"  group-title="Radio" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
@@ -68,7 +68,7 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9668
 #EXTINF:-1 tvg-id="HBO 2" group-title="Peliculas",HBO 2
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9673
 #EXTINF:-1 tvg-id="HBO Family" group-title="Peliculas",HBO Family
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9678
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9679
 #EXTINF:-1 tvg-id="HBO +" group-title="Peliculas",HBO +
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9688
 #EXTINF:-1 tvg-id="HBO Xtreme" group-title="Peliculas",HBO Xtreme
