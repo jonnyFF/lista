@@ -61,8 +61,13 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/179524
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/179530
 #EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157562
-#EXTINF:-1 tvg-id="Espn"  group-title="Deporte" ,Espn
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157558
+#EXTINF:-1 tvg-id="Espn1"  group-title="Deporte" ,Espn1
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9521
+#EXTINF:-1 tvg-id="Espn2"  group-title="Deporte" ,Espn2
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9526
+#EXTINF:-1 tvg-id="Espn7"  group-title="Deporte" ,Espn7
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9543
+
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157585
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
