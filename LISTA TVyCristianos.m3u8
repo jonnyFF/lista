@@ -110,8 +110,10 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9755
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9743
 #EXTINF:-1 tvg-id="Warner" group-title="Peliculas",Warner
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9774
-#EXTINF:-1 tvg-id="Sony Channel" group-title="Peliculas",Sony Channe
+#EXTINF:-1 tvg-id="Sony Channel" group-title="Peliculas",Sony Channel
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9711
+#EXTINF:-1 tvg-id="A&E" group-title="Peliculas",A&E
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9614
 
 
 
