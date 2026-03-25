@@ -26,6 +26,10 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9866
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9869
 #EXTINF:-1 tvg-id="Nick JR"  group-title="Infantil" ,Nick JR
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9875
+#EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantil" ,Cartoon Network
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9861
+#EXTINF:-1 tvg-id="Discovery Kids"  group-title="Infantil" ,Discovery Kids
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9865
 
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Musica" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
