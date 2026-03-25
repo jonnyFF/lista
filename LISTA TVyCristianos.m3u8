@@ -35,6 +35,10 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9865
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telehit Plus"  group-title="Musica" ,Telehit Plus
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/8317
+#EXTINF:-1 tvg-id="Vevo Latino"  group-title="Musica" ,Vevo Latino
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo Pop"  group-title="Musica" ,Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
