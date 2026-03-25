@@ -27,8 +27,10 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9869
 #EXTINF:-1 tvg-id="Nick JR"  group-title="Infantil" ,Nick JR
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9875
 
-#EXTINF:-1 tvg-id="La 100 Radio"  group-title="Radio" ,La 100 Radio
+#EXTINF:-1 tvg-id="La 100 Radio"  group-title="Musica" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Telehit Plus"  group-title="Musica" ,Telehit Plus
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/8317
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
