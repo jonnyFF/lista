@@ -42,6 +42,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9814
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9821
 #EXTINF:-1 tvg-id="Discovery World"  group-title="Documentales" ,Discovery World
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9832
+#EXTINF:-1 tvg-id="Discovery Science"  group-title="Documentales" ,Discovery Science
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9786
 #EXTINF:-1 tvg-id="Nat Geo"  group-title="Documentales" ,Nat Geo
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9805
 #EXTINF:-1 tvg-id="Nat Geo Wild"  group-title="Documentales" ,Nat Geo Wild
