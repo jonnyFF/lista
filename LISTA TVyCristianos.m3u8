@@ -42,6 +42,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9821
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9832
 #EXTINF:-1 tvg-id="Nat Geo"  group-title="Documentales" ,Nat Geo
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9805
+#EXTINF:-1 tvg-id="Nat Geo Wild"  group-title="Documentales" ,Nat Geo Wild
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/161997
 
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
