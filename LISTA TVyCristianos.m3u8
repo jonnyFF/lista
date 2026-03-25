@@ -73,8 +73,6 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157585
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157620
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9552
-#EXTINF:-1 tvg-id="FIFA +" group-title="Deporte",FIFA +
-http://107.152.39.199:8030/hls/canal1.m3u8
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Deporte",DAZN F1
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/156163
 
@@ -124,6 +122,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9774
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9711
 #EXTINF:-1 tvg-id="A&E" group-title="Peliculas",A&E
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9614
+#EXTINF:-1 tvg-id="AXN" group-title="Peliculas",AXN
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9625
 #EXTINF:-1 tvg-id="FX" group-title="Peliculas",FX
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9654
 #EXTINF:-1 tvg-id="Star Channel" group-title="Peliculas",Star Channel
