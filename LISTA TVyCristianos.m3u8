@@ -34,6 +34,10 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/8317
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="History"  group-title="Documentales" ,History
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9838
+#EXTINF:-1 tvg-id="History2"  group-title="Documentales" ,History2
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9839
 #EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9812
 #EXTINF:-1 tvg-id="Discovery Channel"  group-title="Documentales" ,Discovery Channel
