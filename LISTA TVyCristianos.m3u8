@@ -83,8 +83,6 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/179531
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
 #EXTINF:-1 tvg-id="Espn HD"  group-title="Deporte" ,Espn HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
-#EXTINF:-1 tvg-id="Espn Premium"  group-title="Deporte" ,Espn Premium
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157562
 #EXTINF:-1 tvg-id="Espn Premium FHD"  group-title="Deporte" ,Espn Premium FHD
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/149087.ts
 #EXTINF:-1 tvg-id="Espn1"  group-title="Deporte" ,Espn1
