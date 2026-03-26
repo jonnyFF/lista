@@ -134,6 +134,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9688
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9698
 #EXTINF:-1 tvg-id="Cinecanal" group-title="Peliculas",Cinecanal
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9631
+#EXTINF:-1 tvg-id="Cinemax" group-title="Peliculas",Cinemax
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
 #EXTINF:-1 tvg-id="Space" group-title="Peliculas",Space
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9717
 #EXTINF:-1 tvg-id="Studio" group-title="Peliculas",Studio
