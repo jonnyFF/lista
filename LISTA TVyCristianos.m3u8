@@ -118,6 +118,8 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 
 #EXTINF:-1 tvg-id="Caracol TV" group-title="Peliculas",Caracol TV
 http://107.152.39.199:8030/hls/canal1.m3u8
+#EXTINF:-1 tvg-id="Golden" group-title="Peliculas",Golden
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9657
 #EXTINF:-1 tvg-id="HBO" group-title="Peliculas",HBO
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9668
 #EXTINF:-1 tvg-id="HBO 2" group-title="Peliculas",HBO 2
