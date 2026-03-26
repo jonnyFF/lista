@@ -103,6 +103,10 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/156163
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 #EXTINF:-1 tvg-id="Sky sports"  group-title="Deporte" ,Sky sports
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9599
+#EXTINF:-1 tvg-id="Eventos 1"  group-title="Deporte" ,Eventos 1
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/189004
+#EXTINF:-1 tvg-id="Eventos 2"  group-title="Deporte" ,Eventos 2
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/178775
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
