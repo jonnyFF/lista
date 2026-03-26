@@ -95,6 +95,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157620
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9552
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Deporte",DAZN F1
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/156163
+#EXTINF:-1 tvg-id="Sky sports"  group-title="Deporte" ,Sky sports
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9599
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
