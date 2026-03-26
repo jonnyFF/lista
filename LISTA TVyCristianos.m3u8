@@ -108,6 +108,8 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9599
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CineAr" group-title="Culturales",CineAr
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157601
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
