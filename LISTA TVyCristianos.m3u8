@@ -16,7 +16,7 @@ http://107.152.39.199:8030/hls/canal12.m3u8
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157624
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157590
+http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="C5n"  group-title="Noticias" ,C5n
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157566
 
