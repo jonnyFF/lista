@@ -48,6 +48,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9838
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9839
 #EXTINF:-1 tvg-id="Caza y Pesca"  group-title="Documentales" ,Caza y Pesca
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
+#EXTINF:-1 tvg-id="Tru Tv"  group-title="Documentales" ,Tru Tv
+http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9852
 #EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel"  group-title="Documentales" ,Discovery Channel
