@@ -119,7 +119,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
 #EXTINF:-1 tvg-id="Rural" group-title="Culturales",Rural
 http://186.0.248.91:20202/Live/df9f17479cc5faa21bff6661c58d431f/rural_540.m3u8
 #EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
-http://186.0.248.91:20202/Live/df9f17479cc5faa21bff6661c58d431f/rttve_540.m3u8
+http://186.0.248.91:20202/Live/df9f17479cc5faa21bff6661c58d431f/rttve.540.4531744.ts
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
