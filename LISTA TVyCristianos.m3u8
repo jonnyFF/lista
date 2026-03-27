@@ -109,6 +109,8 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9599
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/189004
 #EXTINF:-1 tvg-id="Eventos 2"  group-title="Deporte" ,Eventos 2
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/178775
+#EXTINF:-1 tvg-id="Fifa +"  group-title="Deporte" ,Fifa +
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
