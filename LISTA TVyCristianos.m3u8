@@ -70,7 +70,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9802
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deporte" ,Directv Sport1
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9560
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9560
 #EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deporte" ,Directv Sport2
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9566
 #EXTINF:-1 tvg-id="Directv +"  group-title="Deporte" ,Directv +
@@ -98,15 +98,15 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157620
 #EXTINF:-1 tvg-id="Bein Sports HD" group-title="Deporte" ,Bein Sports HD
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9552
 #EXTINF:-1 tvg-id="DAZN F1" group-title="Deporte",DAZN F1
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/156163
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/156163
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Deporte",DAZN F1 HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 #EXTINF:-1 tvg-id="Sky sports"  group-title="Deporte" ,Sky sports
 http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9599
 #EXTINF:-1 tvg-id="Eventos 1"  group-title="Deporte" ,Eventos 1
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/189004
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/189004
 #EXTINF:-1 tvg-id="Eventos 2"  group-title="Deporte" ,Eventos 2
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/178775
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/178775
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
