@@ -117,7 +117,7 @@ http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157601
 #EXTINF:-1 tvg-id="Globo-Brasil" group-title="Culturales",Globo-Brasil
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
 #EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
-http://186.0.248.91:20202/Live/df9f17479cc5faa21bff6661c58d431f/rttve.540.4531744.ts
+https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
