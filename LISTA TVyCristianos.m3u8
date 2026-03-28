@@ -94,6 +94,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9521
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9526
 #EXTINF:-1 tvg-id="Espn4"  group-title="Deporte" ,Espn4
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/360928.ts
+#EXTINF:-1 tvg-id="Espn5"  group-title="Deporte" ,Espn5
+http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/361021.ts
 #EXTINF:-1 tvg-id="Espn7"  group-title="Deporte" ,Espn7
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9543
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
