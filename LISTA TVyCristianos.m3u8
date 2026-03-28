@@ -23,9 +23,9 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157607
 
 #EXTINF:-1 tvg-id="Disney Channel"  group-title="Infantil" ,Disney Channel
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9866
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
 #EXTINF:-1 tvg-id="Disney JR"  group-title="Infantil" ,Disney JR
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/9869
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9868
 #EXTINF:-1 tvg-id="Nick JR"  group-title="Infantil" ,Nick JR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9877
 #EXTINF:-1 tvg-id="Cartoon Network"  group-title="Infantil" ,Cartoon Network
