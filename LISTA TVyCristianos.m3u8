@@ -47,6 +47,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8317
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo Pop"  group-title="Musica" ,Vevo Pop
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo"  group-title="Musica" ,Teleritmo
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8318
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
