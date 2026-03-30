@@ -17,8 +17,6 @@ http://107.152.39.199:8030/hls/canal12.m3u8
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/81283.ts
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe HD
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
-#EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe SD
-http://107.152.39.199:8030/hls/canal13.m3u8
 #EXTINF:-1 tvg-id="Telefe Int"  group-title="Noticias" ,Telefe Int
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
 #EXTINF:-1 tvg-id="C5n"  group-title="Noticias" ,C5n
