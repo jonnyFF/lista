@@ -125,6 +125,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/156157
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8187
 #EXTINF:-1 tvg-id="TUDN USA"  group-title="Deporte" ,TUDN USA
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/437846.ts
+#EXTINF:-1 tvg-id="Liga de Campeones"  group-title="Deporte" ,Liga de Campeones
+http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/305949.ts
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
