@@ -51,6 +51,8 @@ https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsung
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8318
 #EXTINF:-1 tvg-id="MiMusica"  group-title="Musica" ,MiMusica
 http://190.60.32.178:8178/play/a07a/index.m3u8
+#EXTINF:-1 tvg-id="Zona Latina"  group-title="Musica" ,Zona Latina
+http://181.78.82.6:46090/play/a0cd/index.m3u8
 
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
