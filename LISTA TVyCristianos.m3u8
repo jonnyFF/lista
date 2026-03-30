@@ -76,6 +76,9 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9805
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/8218
 #EXTINF:-1 tvg-id="Love Nature"  group-title="Documentales" ,Love Nature
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9802
+#EXTINF:-1 tvg-id="DW"  group-title="Documentales" ,DW
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9791
+
 
 #EXTINF:-1 tvg-id="TyC sport"  group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
