@@ -182,7 +182,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9712
 #EXTINF:-1 tvg-id="A&E" group-title="Peliculas",A&E
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9616
 #EXTINF:-1 tvg-id="AXN" group-title="Peliculas",AXN
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9625
+#EXTINF:-1 tvg-id="Discovery Channel"  group-title="Documentales" ,Discovery Channel
 #EXTINF:-1 tvg-id="FX" group-title="Peliculas",FX
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9654
 #EXTINF:-1 tvg-id="Star Channel" group-title="Peliculas",Star Channel
