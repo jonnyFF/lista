@@ -233,3 +233,58 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9721
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9705
 #EXTINF:-1 tvg-id="AMC" group-title="Peliculas",AMC
 http://181.78.82.6:46090/play/a08a/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Belleza perfecta (2026) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQmY61WL1ql6Ecq8bzexkZTP8kR.jpg" group-title="SERIES-ESTRENOS 2026",Belleza perfecta (2026) S01 E01
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182145.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belleza perfecta (2026) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiG1THNuVP4Dk3I3RUJ4fdCXCNa.jpg" group-title="SERIES-ESTRENOS 2026",Belleza perfecta (2026) S01 E02
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belleza perfecta (2026) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVb3oftdZ1QcX5jlmpdlbUhLuuV.jpg" group-title="SERIES-ESTRENOS 2026",Belleza perfecta (2026) S01 E03
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belleza perfecta (2026) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ArL3RGvrOHpgsayOGipS4Qt18E.jpg" group-title="SERIES-ESTRENOS 2026",Belleza perfecta (2026) S01 E04
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U61OOu2BCLeqqjdIdSeXCCwDWc.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E01
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVrNWCRZqegqRkVa7VEcdAp9WEi.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E02
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxGxsjWs4UfQMsReYWHNGhuItne.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E03
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gmTXp0ag41cQ9dom4ZId9AM8aF.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E04
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMBKqU7Mv5R4SB1enu3z92NhcBd.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E05
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57hPm0uTsZ3wtY3ADSQ9H5spPJf.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E06
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Starfleet Academy (2026) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZAShsu8KrxgYH7vrK7d5BfPANW.jpg" group-title="SERIES-ESTRENOS 2026",Star Trek: Starfleet Academy (2026) S01 E07
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/182156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNO1K0IXvfck9YVXZ6FP0SxneSW.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E01
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foeCyyjCg87C2xsP0f4zTvEo8Qr.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E02
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJk7141t1hzHDkfkjAPwZMfH9vD.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E03
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhoYsT0pktLOKjTS7GBZXI9qeCJ.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E04
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HQhe7rlN7i46WyrYrtU3jnFfJe.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E05
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60BbvRpXi5CbVvGk5G4bv61Tl5Z.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E06
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIpOIQ5D49W282G5DaniucpedFB.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E07
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQqUug8zavqAdZNbsWkiYprpL4w.jpg" group-title="SERIES-DISNEY",The Dropout Auge y caída de Elizabeth Holmes (2022) S01 E08
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E01
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orI29i5mDUgQ95MZIhvprt1VYv7.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E02
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748hbs7OwEsCCFQ6DawihDHyQdN.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E03
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pBuDeNvSJdwS7O9DSZlJ1HXzt8.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E04
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zSeRX4MH4pFuBLgZmoob6RvniH.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E05
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QNqrV5zNqzvhPhF61ZoO86j9pn.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E06
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p88wQia1SYh4f0078Pt0nzQIQuW.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E07
+http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181895.mkv
