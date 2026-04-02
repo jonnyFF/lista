@@ -235,17 +235,21 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9705
 http://181.78.82.6:46090/play/a08a/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alv68jhd6I5Aqvn5jv79u0et7Tw.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E01" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E01
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orI29i5mDUgQ95MZIhvprt1VYv7.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E02" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E02
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748hbs7OwEsCCFQ6DawihDHyQdN.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E03" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E03
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pBuDeNvSJdwS7O9DSZlJ1HXzt8.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E04" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E04
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1zSeRX4MH4pFuBLgZmoob6RvniH.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E05" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E05
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QNqrV5zNqzvhPhF61ZoO86j9pn.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E06" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E06
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p88wQia1SYh4f0078Pt0nzQIQuW.jpg" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E07" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E07
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181895.mkv
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mi suegra me odia (2022)"  group-title="CINE",Mi suegra me odia (2022)
+http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/180646.mp4
