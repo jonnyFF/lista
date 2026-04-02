@@ -253,3 +253,6 @@ http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181895.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="Mi suegra me odia (2022)"  group-title="CINE",Mi suegra me odia (2022)
 http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/180646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stark, el pistolero (1968)" group-title="CINE",Stark, el pistolero (1968)
+http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/177680.mkv
+
