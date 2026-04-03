@@ -12,7 +12,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157577
 #EXTINF:-1 tvg-id="Tv Publica" group-title="Noticias" ,Tv Publica
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157587
 #EXTINF:-1 tvg-id="Canal 13" group-title="Noticias" ,Canal 13
-http://tv.diablotv.net:8080/Enrique0222/da3b09a6dce5/157567
+http://107.152.39.199:8030/hls/canal12.m3u8
 #EXTINF:-1 tvg-id="America Tv"  group-title="Noticias" ,America Tv
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/81283.ts
 #EXTINF:-1 tvg-id="Telefe"  group-title="Noticias" ,Telefe HD
