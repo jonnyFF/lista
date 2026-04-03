@@ -167,6 +167,8 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157618
 #EXTINF:-1 tvg-id="Canal 13 CHILE" group-title="Culturales",Canal 13 CHILE
 http://181.78.82.6:46090/play/a0cy/index.m3u8
+#EXTINF:-1 tvg-id="America TV" group-title="Culturales",America TV
+http://181.78.82.6:46090/play/a06f/index.m3u8
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
