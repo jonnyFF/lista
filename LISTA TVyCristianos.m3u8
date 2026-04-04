@@ -78,6 +78,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9834
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9786
 #EXTINF:-1 tvg-id="Discovery Theater HD"  group-title="Documentales" ,Discovery Theater HD
 http://181.78.82.6:46090/play/a071/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo"  group-title="Documentales" ,Discovery Turbo
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9830
 #EXTINF:-1 tvg-id="Nat Geo"  group-title="Documentales" ,Nat Geo
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9805
 #EXTINF:-1 tvg-id="Nat Geo Wild"  group-title="Documentales" ,Nat Geo Wild
@@ -181,6 +183,8 @@ http://181.78.82.6:46090/play/a06f/index.m3u8
 http://181.78.82.6:46090/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="Cine AR" group-title="Culturales",Cine AR
 http://181.209.37.74:8001/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="Hola Tv" group-title="Culturales",Hola Tv
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9799
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
