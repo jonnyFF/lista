@@ -255,6 +255,8 @@ http://181.78.82.6:46090/play/a08a/index.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9626
 #EXTINF:-1 tvg-id="Starz Family" group-title="Peliculas",Starz Family
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9731
+#EXTINF:-1 tvg-id="TCM" group-title="Peliculas",TCM
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9741
 
 #EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E01" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E01
 http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181889.mkv
