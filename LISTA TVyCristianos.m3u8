@@ -97,7 +97,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8542
 #EXTINF:-1 tvg-id="Directv Premium UY"  group-title="Deporte" ,Directv Premium UY
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/184013
 #EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deporte" ,Directv Sport1
-http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/50724.ts
+http://179.63.6.12:9000/play/a01k
 #EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deporte" ,Directv Sport2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9564
 #EXTINF:-1 tvg-id="Directv +"  group-title="Deporte" ,Directv +
