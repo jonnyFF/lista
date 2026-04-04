@@ -175,6 +175,8 @@ http://181.78.82.6:46090/play/a0cy/index.m3u8
 http://181.78.82.6:46090/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" group-title="Culturales",El Gourmet
 http://181.78.82.6:46090/play/a080/index.m3u8
+#EXTINF:-1 tvg-id="Cine AR" group-title="Culturales",Cine AR
+http://181.209.37.74:8001/play/a069/index.m3u8
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
