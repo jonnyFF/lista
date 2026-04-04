@@ -156,6 +156,8 @@ http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/305949.ts
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/306482.ts
 #EXTINF:-1 tvg-id="Rally tv"  group-title="Deporte" ,Rally tv
 https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca 7"  group-title="Deporte" ,Azteca 7
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/87571
 
 #EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
