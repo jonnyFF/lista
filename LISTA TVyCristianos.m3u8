@@ -23,6 +23,8 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157566
 #EXTINF:-1 tvg-id="LN+"  group-title="Noticias" ,LN+
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157592
+#EXTINF:-1 tvg-id="A24" group-title="Noticias" ,A24
+http://45.5.151.147:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel"  group-title="Infantil" ,Disney Channel
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
