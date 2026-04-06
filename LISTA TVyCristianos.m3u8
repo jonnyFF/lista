@@ -262,7 +262,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
 #EXTINF:-1 tvg-id="AR - FX"  tvg.logo="https://iptv-epg.org/logos/Argentina/FX.ar.png" group-title="Peliculas",FX
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9654
-#EXTINF:-1 tvg-id="Star Channel" group-title="Peliculas",Star Channel
+#EXTINF:-1 tvg-id="AR - Star Channel tvg-logo="https://iptv-epg.org/logos/Argentina/StarChannel.ar.png" group-title="Peliculas",Star Channel
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9721
 #EXTINF:-1 tvg-id="Paramount +" group-title="Peliculas",Paramount +
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9705
