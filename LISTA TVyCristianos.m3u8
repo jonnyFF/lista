@@ -29,9 +29,9 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157592
 #EXTINF:-1 tvg-id="AR - A24" tvg-logo="https://iptv-epg.org/logos/Argentina/A24.ar.png" group-title="Noticias" ,A24
 http://45.5.151.147:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantil" ,Disney Channel
+#EXTINF:-1 tvg-id="AR - Disney Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyChannel.ar.png" group-title="Infantil" ,Disney Channel
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
-#EXTINF:-1 tvg-id="Disney JR" tvg-logo="https://e7.pngegg.com/pngimages/362/350/png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png" group-title="Infantil" ,Disney JR
+#EXTINF:-1 tvg-id="AR - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png" group-title="Infantil" ,Disney JR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9869
 #EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"group-title="Infantil" ,Nick JR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9877
