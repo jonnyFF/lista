@@ -113,7 +113,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9564
 #EXTINF:-1 tvg-id="Directv +"  group-title="Deporte" ,Directv +
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9559
 #EXTINF:-1 tvg-id="Fox sport"  group-title="Deporte" ,Fox sport
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179527
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
 #EXTINF:-1 tvg-id="Fox sport 2"  group-title="Deporte" ,Fox sport 2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179531
 #EXTINF:-1 tvg-id="Fox sport 3"  group-title="Deporte" ,Fox sport 3
@@ -158,8 +158,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/178775
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="Danz Laliga"  group-title="Deporte" ,Danz Laliga
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/156157
-#EXTINF:-1 tvg-id="Gol"  group-title="Deporte" ,Gol
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8187
+#EXTINF:-1 tvg-id="Gol" tvg-logo="https://1.bp.blogspot.com/-tAUwJtdvbyo/XzSE6JkSizI/AAAAAAAAA6Q/_piNFBzgsDIwr6cAbeqS3cteFcgInfjvACLcBGAsYHQ/w200-h200/128%2BGOL%2BTV.png" group-title="Deporte" ,Gol
+http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/161957
 #EXTINF:-1 tvg-id="TUDN USA"  group-title="Deporte" ,TUDN USA
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/437846.ts
 #EXTINF:-1 tvg-id="Liga de Campeones"  group-title="Deporte" ,Liga de Campeones
