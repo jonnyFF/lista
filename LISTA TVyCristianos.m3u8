@@ -77,7 +77,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9816
 #EXTINF:-1 tvg-id="Discovery Familia"  group-title="Documentales" ,Discovery Familia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
-#EXTINF:-1 tvg-id="Discovery Home & Health"  group-title="Documentales" ,Discovery Home & Health
+#EXTINF:-1 tvg-id="AR - Discovery Home & Health"  tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryHomeAndHealth.ar.png" group-title="Documentales" ,Discovery Home & Health
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9821
 #EXTINF:-1 tvg-id="Discovery ID"  group-title="Documentales" ,Discovery ID
 http://177.10.184.193:8000/play/a0a8/index.m3u8
