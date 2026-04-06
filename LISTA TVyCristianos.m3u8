@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Canal 9 Litoral" logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
+#EXTINF:-1 tvg-id="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Canal 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Noticias" ,Canal 9
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157595
-#EXTINF:-1 tvg-id="Canal 26" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias" ,Canal 26
+#EXTINF:-1 tvg-id="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1280px-Canal_26_logo_%282022%29.svg.png" group-title="Noticias" ,Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="Cronica" tv-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias" ,Cronica
+#EXTINF:-1 tvg-id="Cronica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="Noticias" ,Cronica
 http://138.121.114.91:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="TN Noticias" tv-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Noticias" ,TN Noticias
+#EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Noticias" ,TN Noticias
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157577
 #EXTINF:-1 tvg-id="Tv Publica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png"group-title="Noticias" ,Tv Publica
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157587
-#EXTINF:-1 tvg-id="Canal 13" tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Noticias" ,Canal 13
+#EXTINF:-1 tvg-id="Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="Noticias" ,Canal 13
 http://107.152.39.199:8030/hls/canal12.m3u8
-#EXTINF:-1 tvg-id="America Tv" tv-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Noticias" ,America Tv
+#EXTINF:-1 tvg-id="America Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG" group-title="Noticias" ,America Tv
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/81283.ts
-#EXTINF:-1 tvg-id="Telefe" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/330px-Telefe_%28nuevo_logo%29.png" group-title="Noticias" ,Telefe HD
+#EXTINF:-1 tvg-id="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/330px-Telefe_%28nuevo_logo%29.png" group-title="Noticias" ,Telefe HD
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
-#EXTINF:-1 tvg-id="Telefe Int" tv-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe Int
+#EXTINF:-1 tvg-id="Telefe Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe Int
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
-#EXTINF:-1 tvg-id="C5n" tv-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias" ,C5n
+#EXTINF:-1 tvg-id="C5n" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="Noticias" ,C5n
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157566
 #EXTINF:-1 tvg-id="LN+" tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias" ,LN+
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157592
-#EXTINF:-1 tvg-id="A24" tv-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias" ,A24
+#EXTINF:-1 tvg-id="A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="Noticias" ,A24
 http://45.5.151.147:8000/play/a006/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel"  group-title="Infantil" ,Disney Channel
