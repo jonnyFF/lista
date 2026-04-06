@@ -6,7 +6,7 @@
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AR - El Nueve" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png" group-title="Noticias" ,EL Nueve
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157595
-#EXTINF:-1 tvg-id="Canal 26" tvg-logo="https://iptv-epg.org/logos/Argentina/Canal26.ar.png" group-title="Noticias" ,Canal 26
+#EXTINF:-1 tvg-id="AR - Canal 26" tvg-logo="https://iptv-epg.org/logos/Argentina/Canal26.ar.png" group-title="Noticias" ,Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="AR - Cronica TV" tvg-logo="https://iptv-epg.org/logos/Argentina/CronicaTV.ar.png" group-title="Noticias" ,AR - Cronica TV
 http://138.121.114.91:8000/play/a05w/index.m3u8
