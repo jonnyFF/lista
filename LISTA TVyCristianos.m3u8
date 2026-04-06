@@ -266,7 +266,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9654
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9721
 #EXTINF:-1 tvg-id="Paramount +" group-title="Peliculas",Paramount +
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9705
-#EXTINF:-1 tvg-id="AR - AMC" group-title="Peliculas",AMC
+#EXTINF:-1 tvg-id="AR - AMC" tvg-logo="https://iptv-epg.org/logos/Argentina/AMC.ar.png" group-title="Peliculas",AMC
 http://181.78.82.6:46090/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="Cine Latino" group-title="Peliculas",Cine Latino
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9626
