@@ -10,7 +10,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157595
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="AR - Cronica TV" tvg-logo="https://iptv-epg.org/logos/Argentina/CronicaTV.ar.png" group-title="Noticias" ,AR - Cronica TV
 http://138.121.114.91:8000/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="TN Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Noticias" ,TN Noticias
+#EXTINF:-1 tvg-id="AR - TN" tvg-logo="https://iptv-epg.org/logos/Argentina/TN.ar.png" group-title="Noticias" ,TN Noticias
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157577
 #EXTINF:-1 tvg-id="AR - Televisión Pública" tvg-logo="https://iptv-epg.org/logos/Argentina/TelevisionPublica.ar.png"group-title="Noticias" ,Tv Publica
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157587
