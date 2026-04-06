@@ -110,7 +110,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/184013
 http://179.63.6.12:9000/play/a01k
 #EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deporte" ,Directv Sport2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9564
-#EXTINF:-1 tvg-id="Directv +"  group-title="Deporte" ,Directv +
+#EXTINF:-1 tvg-id="Directv +" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="Deporte" ,Directv +
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9559
 #EXTINF:-1 tvg-id="Fox sport"  group-title="Deporte" ,Fox sport
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
