@@ -71,9 +71,9 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9838
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9839
 #EXTINF:-1 tvg-id="Caza y Pesca"  group-title="Documentales" ,Caza y Pesca
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
-#EXTINF:-1 tvg-id="Animal Planet"  group-title="Documentales" ,Animal Planet
+#EXTINF:-1 tvg-id="AR - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel"  group-title="Documentales" ,Discovery Channel
+#EXTINF:-1 tvg-id="AR - Discovery Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryChannel.ar.png" group-title="Documentales" ,Discovery Channel
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9816
 #EXTINF:-1 tvg-id="Discovery Familia"  group-title="Documentales" ,Discovery Familia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
@@ -260,7 +260,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9712
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 #EXTINF:-1 tvg-id="AXN" group-title="Peliculas",AXN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
-#EXTINF:-1 tvg-id="FX" group-title="Peliculas",FX
+#EXTINF:-1 tvg-id="AR - FX"  tvg.logo="https://iptv-epg.org/logos/Argentina/FX.ar.png" group-title="Peliculas",FX
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9654
 #EXTINF:-1 tvg-id="Star Channel" group-title="Peliculas",Star Channel
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9721
