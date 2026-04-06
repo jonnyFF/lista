@@ -33,7 +33,7 @@ http://45.5.151.147:8000/play/a006/index.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
 #EXTINF:-1 tvg-id="AR - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png" group-title="Infantil" ,Disney JR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9869
-#EXTINF:-1 tvg-id="Nick JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nick_Jr._logo_2023_%28outline%29.svg"group-title="Infantil" ,Nick JR
+#EXTINF:-1 tvg-id="AR - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Argentina/NickJr..ar.png" group-title="Infantil" ,Nick JR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9877
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantil" ,Cartoon Network
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9861
