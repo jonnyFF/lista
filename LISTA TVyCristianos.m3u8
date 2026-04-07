@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-eimouc.xml"
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml"
 
 #EXTINF:-1 tvg-id="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
