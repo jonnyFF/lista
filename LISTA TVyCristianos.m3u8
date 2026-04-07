@@ -99,7 +99,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9848
 http://38.188.186.47:4000/play/a009/index.m3u
 #EXTINF:-1 tvg-id="DW"  group-title="Documentales" ,DW
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9791
-#EXTINF:-1 tvg-id="HGTV"  group-title="Documentales" ,HGTV
+#EXTINF:-1 tvg-id="AR - HGTV" tvg-logo="https://iptv-epg.org/logos/Argentina/HGTV.ar.png" group-title="Documentales" ,HGTV
 http://181.78.82.6:46090/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-id="AR - A&E" tvg-logo="https://iptv-epg.org/logos/Argentina/AandE.ar.png" group-title="Documentales",A&E
 http://217.26.190.76:8888/play/a0ff/index.m3u8
