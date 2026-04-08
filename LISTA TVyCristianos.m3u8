@@ -129,7 +129,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
 #EXTINF:-1 tvg-id="Espn 4k"  group-title="Deporte" ,Espn 4k
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/316158.ts
-#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium FHD
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium FHD
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/149087.ts
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png"  group-title="Deporte" ,Espn1
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9521
