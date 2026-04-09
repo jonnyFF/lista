@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id="Canal 9 Litoral" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="AR - El Nueve" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png" group-title="Noticias" ,EL Nueve
+#EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png" group-title="Noticias" ,EL Nueve
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157595
 #EXTINF:-1 tvg-id="AR - Canal 26" tvg-logo="https://iptv-epg.org/logos/Argentina/Canal26.ar.png" group-title="Noticias" ,Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
