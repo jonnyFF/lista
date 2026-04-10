@@ -253,7 +253,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9742
 http://181.78.82.6:46090/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AR - TNT Series" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TNTSeries.ar.png" group-title="Peliculas",Tnt Series
 http://181.78.82.6:46090/play/a072/index.m3u8
-#EXTINF:-1 tvg-id="Warner" group-title="Peliculas",Warner
+#EXTINF:-1 tvg-id="AR - Warner Channel" TVG-LOGO="https://iptv-epg.org/logos/Argentina/WarnerChannel.ar.png" group-title="Peliculas",Warner
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9775
 #EXTINF:-1 tvg-id="AR - Sony" tvg-logo="https://iptv-epg.org/logos/Argentina/Sony.ar.png" group-title="Peliculas",Sony Channel
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9712
