@@ -13,8 +13,10 @@ http://138.121.114.91:8000/play/a05w/index.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157577
 #EXTINF:-1 tvg-id="AR - Televisión Pública" tvg-logo="https://iptv-epg.org/logos/Argentina/TelevisionPublica.ar.png"group-title="Noticias" ,Tv Publica
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157587
-#EXTINF:0 tvg-id="AR - El Trece" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElTrece.ar.png" group-title="Noticias" ,Canal 13
+#EXTINF:0 tvg-id="AR - El Trece" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElTrece.ar.png" group-title="Noticias" ,Canal 13 HD
 http://107.152.39.199:8030/hls/canal12.m3u8
+#EXTINF:0 tvg-id="AR - El Trece" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElTrece.ar.png" group-title="Noticias" ,Canal 13 SD
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157591
 #EXTINF:-1 tvg-id="AR - América TV" tvg-logo="https://iptv-epg.org/logos/Argentina/AmericaTV.ar.png" group-title="Noticias" ,America Tv
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157612
 #EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://iptv-epg.org/logos/Argentina/Telefe.ar.png" group-title="Noticias" ,Telefe HD
