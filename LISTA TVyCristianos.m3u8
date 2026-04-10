@@ -181,7 +181,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9610
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Globo-Brasil" group-title="Culturales",Globo-Brasil
+#EXTINF:-1 tvg-id="AR - TV Globo" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TVGlobo.ar.png" group-title="Culturales",Globo-Brasil
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
 #EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
