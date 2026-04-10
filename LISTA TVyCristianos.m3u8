@@ -199,6 +199,8 @@ http://181.209.37.74:8001/play/a069/index.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9799
 #EXTINF:-1 tvg-id="Telemundo Inter" group-title="Culturales",Telemundo Inter
 http://201.216.147.90:8729/play/a0c7
+#EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/3840px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Culturales",Caracol TV
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
 
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -215,8 +217,7 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Extrema Kids"  group-title="Cristianas" ,Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w441091549.m3u8
 
-#EXTINF:-1 tvg-id="Caracol TV" group-title="Peliculas",Caracol TV
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/2.m3u8
+
 #EXTINF:-1 tvg-id="Golden" group-title="Peliculas",Golden
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9657
 #EXTINF:-1 tvg-id="Golden Premier" group-title="Peliculas",Golden Premier
