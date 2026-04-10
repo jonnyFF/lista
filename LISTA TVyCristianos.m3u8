@@ -193,7 +193,7 @@ http://181.78.82.6:46090/play/a0cy/index.m3u8
 http://181.78.82.6:46090/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" group-title="Culturales",El Gourmet
 http://181.78.82.6:46090/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="Cine AR" group-title="Culturales",Cine AR
+#EXTINF:-1 tvg-id="AR - CineAr" tvg-logo="https://iptv-epg.org/logos/Argentina/CineAr.ar.png" group-title="Culturales",Cine AR
 http://181.209.37.74:8001/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="Hola Tv" group-title="Culturales",Hola Tv
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9799
@@ -274,31 +274,4 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9731
 #EXTINF:-1 tvg-id="TCM" group-title="Peliculas",TCM
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9741
 
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E01" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E01
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181889.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E02" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E02
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E03" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E03
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181891.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E04" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E04
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E05" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E05
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181893.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E06" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E06
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La lista final Lobo negro (2025) S01 E07" group-title="SERIES-AMAZON PRIME",La lista final Lobo negro (2025) S01 E07
-http://tv.diablotv.net:8080/series/wromero/ePrQdP8ty3/181895.mkv
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Mi suegra me odia (2022)"  group-title="CINE",Mi suegra me odia (2022)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/180646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stark, el pistolero (1968)" group-title="CINE",Stark, el pistolero (1968)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/177680.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Love Me, Love Me (2026)"  group-title="CINE",Love Me, Love Me (2026)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/179767.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Una disparatada bruja en la universidad (1989)" group-title="CINE",Una disparatada bruja en la universidad (1989)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/179769.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Johnny English (2003)"  group-title="CINE",Johnny English (2003)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/131653.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Johnny English 3.0 (2018)" group-title="CINE",Johnny English 3.0 (2018)
-http://tv.diablotv.net:8080/movie/wromero/ePrQdP8ty3/131655.mkv
