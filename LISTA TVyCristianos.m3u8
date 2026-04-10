@@ -72,7 +72,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9838
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9839
 #EXTINF:-1 tvg-id="Caza y Pesca"  group-title="Documentales" ,Caza y Pesca
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/367.m3u8
-#EXTINF:-1 tvg-id="Canal Animal Planet (Argentina)" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
+#EXTINF:-1 tvg-id="AR - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
 #EXTINF:-1 tvg-id="AR - Discovery" tvg-logo="https://iptv-epg.org/logos/Argentina/Discovery.ar.png" group-title="Documentales" ,Discovery Channel
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9816
@@ -177,7 +177,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/87571
 #EXTINF:-1 tvg-id="UFC"  group-title="Deporte" ,UFC
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9610
 
-#EXTINF:-1 tvg-id="Argentinisima"  group-title="Culturales" ,Argentinisima
+#EXTINF:-1 tvg-id="AR - Argentinísima Satelital" tvg-logo="https://iptv-epg.org/logos/Argentina/ArgentinisimaSatelital.ar.png"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
