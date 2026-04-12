@@ -137,7 +137,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9526
 #EXTINF:-1 tvg-id="AR - ESPN Sur 3" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN3.ar.png" group-title="Deporte" ,Espn3
 http://181.13.252.102:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 4" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN4.ar.png" group-title="Deporte" ,Espn4
-http://181.209.37.74:8001/play/a084/index.m3u8
+http://190.60.32.178:8178/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deporte" ,Espn5
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179513
 #EXTINF:-1 tvg-id="Espn6"  group-title="Deporte" ,Espn6
