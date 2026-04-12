@@ -165,9 +165,9 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/156157
 #EXTINF:-1 tvg-id="AR - Gol TV" tvg-logo="https://iptv-epg.org/logos/Argentina/GolTV.ar.png" group-title="Deporte" ,Gol
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/161957
 #EXTINF:-1 tvg-id="TUDN USA"  group-title="Deporte" ,TUDN USA
-http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/437846.ts
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9605
 #EXTINF:-1 tvg-id="Liga de Campeones"  group-title="Deporte" ,Liga de Campeones
-http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/305949.ts
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/161959
 #EXTINF:-1 tvg-id="Combate"  group-title="Deporte" ,Combate
 http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/306482.ts
 #EXTINF:-1 tvg-id="Rally tv"  group-title="Deporte" ,Rally tv
