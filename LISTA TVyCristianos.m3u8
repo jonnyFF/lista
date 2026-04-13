@@ -126,10 +126,10 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="FOX Sports"  group-title="Deporte" ,Fox sport Premium
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179534
-#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn
-https://streamtpnew.com/global1.php?stream=espn
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn1
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn
+http://181.78.7.90:12500/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN"  group-title="Deporte" ,Espn Premium sur
 http://181.78.82.6:46090/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="ESPN " tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
