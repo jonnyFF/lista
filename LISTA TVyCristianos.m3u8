@@ -132,7 +132,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
 http://181.78.7.90:12500/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN Sur 4"  group-title="Deporte" ,Espn Premium sur
 http://181.78.82.6:46090/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="AR - ESPN " tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9549
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9526
