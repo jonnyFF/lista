@@ -173,8 +173,6 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/161957
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9605
 #EXTINF:-1 tvg-id="Liga de Campeones"  group-title="Deporte" ,Liga de Campeones
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/161959
-#EXTINF:-1 tvg-id="Combate"  group-title="Deporte" ,Combate
-http://streamingtv.vip:80//live/CarlosPerdomoIPTVCLUB/dBVrpwjeH9Nd/306482.ts
 #EXTINF:-1 tvg-id="Rally tv"  group-title="Deporte" ,Rally tv
 https://Daviddemaria@dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://posters.hyloft.online/1547833954389.png" group-title="Deporte" ,Azteca 7
