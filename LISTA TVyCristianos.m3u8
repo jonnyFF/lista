@@ -105,7 +105,8 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9791
 http://181.78.82.6:46090/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-id="MX - A&E" tvg-logo="https://iptv-epg.org/logos/Argentina/AandE.ar.png" group-title="Documentales",A&E
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
-
+#EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="" group-title="Documentales",UNIVERSAL CRIME
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
 
 #EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://iptv-epg.org/logos/Argentina/TyCSports.ar.png" group-title="Deporte" ,TyC sport
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
