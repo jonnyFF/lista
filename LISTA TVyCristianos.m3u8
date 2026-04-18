@@ -46,8 +46,6 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9883
 
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Musica" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Telehit"  group-title="Musica" ,Telehit
-http://ultra-premium-pro.xyz:8080/999061768tv/a3y12a/59412
 #EXTINF:-1 tvg-id="Telehit Musica"  group-title="Musica" ,Telehit Musica
 http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-id="Vevo Latino"  group-title="Musica" ,Vevo Latino
