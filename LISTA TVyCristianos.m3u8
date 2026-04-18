@@ -185,8 +185,6 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
 #EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="Multivision" group-title="Culturales",Multivision
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157618
 #EXTINF:-1 tvg-id="Canal 13 CHILE" group-title="Culturales",Canal 13 CHILE
 http://181.78.82.6:46090/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="America TV HD" group-title="Culturales",America TV HD
@@ -195,8 +193,6 @@ http://181.78.82.6:46090/play/a06f/index.m3u8
 http://181.78.82.6:46090/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="AR - CineAr" tvg-logo="https://iptv-epg.org/logos/Argentina/CineAr.ar.png" group-title="Culturales",Cine AR
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157601
-#EXTINF:-1 tvg-id="Hola Tv" group-title="Culturales",Hola Tv
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9799
 #EXTINF:-1 tvg-id="Telemundo Inter" group-title="Culturales",Telemundo Inter
 http://201.216.147.90:8729/play/a0c7
 #EXTINF:-1 tvg-id="Caracol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/3840px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Culturales",Caracol TV
