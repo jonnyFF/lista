@@ -88,7 +88,7 @@ http://181.78.82.6:46090/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="AR - Discovery Turbo" tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryTurbo.ar.png"  group-title="Documentales" ,Discovery Turbo
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9830
 #EXTINF:-1 tvg-id="AR - National Geographic" tvg-logo="https://iptv-epg.org/logos/Argentina/NationalGeographic.ar.png"  group-title="Documentales" ,Nat Geo
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9805
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/161998
 #EXTINF:-1 tvg-id="AR - National Geographic Wild" tvg-logo="https://iptv-epg.org/logos/Argentina/NationalGeographicWild.ar.png"  group-title="Documentales" ,Nat Geo Wild
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/8218
 #EXTINF:-1 tvg-id="Nat Geo Mundo"  group-title="Documentales" ,Nat Geo Mundo
