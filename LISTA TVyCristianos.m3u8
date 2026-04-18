@@ -221,7 +221,7 @@ http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premier 2" group-title="Peliculas",Golden Premier 2
 http://181.189.142.237:40000/play/a08r
 #EXTINF:-1 tvg-id="AR - HBO" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9670
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9666
 #EXTINF:-1 tvg-id="AR - HBOPOP" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO POP
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
 #EXTINF:-1 tvg-id="AR - HBOMUNDI" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO MUNDI
