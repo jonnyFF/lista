@@ -194,7 +194,7 @@ http://181.78.82.6:46090/play/a06f/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" group-title="Culturales",El Gourmet
 http://181.78.82.6:46090/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="AR - CineAr" tvg-logo="https://iptv-epg.org/logos/Argentina/CineAr.ar.png" group-title="Culturales",Cine AR
-http://181.209.37.74:8001/play/a069/index.m3u8
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157601
 #EXTINF:-1 tvg-id="Hola Tv" group-title="Culturales",Hola Tv
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9799
 #EXTINF:-1 tvg-id="Telemundo Inter" group-title="Culturales",Telemundo Inter
