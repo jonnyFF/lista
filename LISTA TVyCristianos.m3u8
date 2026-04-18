@@ -239,7 +239,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9699
 #EXTINF:-1 tvg-id="AR - Cinecanal" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinecanal.ar.png" group-title="Peliculas",Cinecanal
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9630
 #EXTINF:-1 tvg-id="AR - Cinemax" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinemax.ar.png" group-title="Peliculas",Cinemax
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/16.m3u8
+http://190.151.80.244:9990/play/a0li/index.m3u8
 #EXTINF:-1 tvg-id="AR - Space" tvg-logo="https://iptv-epg.org/logos/Argentina/Space.ar.png" group-title="Peliculas",Space
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9717
 #EXTINF:-1 tvg-id="AR - Studio Universal" tvg-logo="https://iptv-epg.org/logos/Argentina/StudioUniversal.ar.png" group-title="Peliculas",Studio
