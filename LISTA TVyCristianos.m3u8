@@ -218,8 +218,8 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w4410
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9657
 #EXTINF:-1 tvg-id="Golden Premier" group-title="Peliculas",Golden Premier
 http://190.60.32.178:8178/play/a097/index.m3u8
-#EXTINF:-1 tvg-id="Golden Premier 2" group-title="Peliculas",Golden Premier 2
-http://181.189.142.237:40000/play/a08r
+#EXTINF:-1 tvg-id="AR - Golden Edge"tvg-logo="https://iptv-epg.org/logos/Argentina/GoldenEdge.ar.png"  group-title="Peliculas",Golden Edge
+http://45.186.254.75:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="AR - HBO" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9666
 #EXTINF:-1 tvg-id="AR - HBOPOP" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO POP
