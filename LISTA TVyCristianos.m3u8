@@ -288,3 +288,5 @@ https://s14.vimeos.net/hls2/02/00007/2ca49n2e0fet_,n,h,.urlset/master.m3u8?t=Egh
 https://s13.vimeos.net/hls2/03/00007/bk1edcurmw90_,n,h,.urlset/master.m3u8?t=qESZfptyj2QmbdSvt6KKsmAN10ftab_GzXVrqD7ZoxA&s=1776709579&e=43200&v=185489273&i=0.3&sp=0&fr=bk1edcurmw90&r=e
 #EXTINF:-1 tvg-id="DEPELICULA" group-title="SERIES|LOS ELEGIDOS",T1-E4
 https://s13.vimeos.net/hls2/02/00007/dok1smudd3cf_,n,h,.urlset/master.m3u8?t=v4rZdJrVS7aExXqBbQocDHyML7jYh6JKYFBE9Et_cys&s=1776709845&e=43200&v=185493349&i=0.0&sp=0&fr=dok1smudd3cf&r=e
+#EXTINF:-1 tvg-id="DEPELICULA" group-title="SERIES|LOS ELEGIDOS",T1-E5
+https://p3.vimeos.zip/hls2/02/00007/kxt84l4scv9j_h/master.m3u8?t=ixE2jIuyZi22fOvcIsD7mIZOt5d6ydczozpW1qf_6go&s=1776710062&e=43200&v=185496738&srv=s8&i=0.3&sp=0&fr=kxt84l4scv9j&r=e
