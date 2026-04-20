@@ -286,7 +286,7 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 #SERIES#
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES|LOS ELEGIDOS",T1-E1
 https://p3.vimeos.zip/hls2/03/00007/whle6zb5cqeo_,n,h,.urlset/master.m3u8?t=951hstykcQYHBB6ZkmhV-pGTp7sFjJiLT_6mO13XXwc&s=1776709187&e=43200&v=185481976&srv=s13&i=0.0&sp=0&fr=whle6zb5cqeo&r=e
-#EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES",LOS ELEGIDOS T1-E2
+#EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E2
 https://s14.vimeos.net/hls2/02/00007/2ca49n2e0fet_,n,h,.urlset/master.m3u8?t=n3tDMjcZh_fOETdtMZaeZnD3k0TFyhrXXzlk5NIES_o&s=1776711524&e=43200&v=185487830&i=0.0&sp=0&fr=2ca49n2e0fet&r=e
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES|LOS ELEGIDOS",T1-E3
 https://s13.vimeos.net/hls2/03/00007/bk1edcurmw90_,n,h,.urlset/master.m3u8?t=qESZfptyj2QmbdSvt6KKsmAN10ftab_GzXVrqD7ZoxA&s=1776709579&e=43200&v=185489273&i=0.3&sp=0&fr=bk1edcurmw90&r=e
