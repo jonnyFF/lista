@@ -300,3 +300,7 @@ https://s13.vimeos.net/hls2/02/00007/n6w91js0pewd_,n,h,.urlset/master.m3u8?t=mxG
 https://p2.vimeos.zip/hls2/02/00007/zcinxjbtrw55_,n,h,.urlset/master.m3u8?t=dPFpkHCSlgpV12b_OG2cRHZLjzP2ogl_PcBrKLZ_Y4U&s=1776710456&e=43200&v=185502802&srv=s13&i=0.0&sp=0&fr=zcinxjbtrw55&r=e
 #EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES|LOS ELEGIDOS",T1-E8
 https://p5.vimeos.zip/hls2/02/00007/h54jt1rrtr0q_,n,h,.urlset/master.m3u8?t=pUsPlBMEHryxHehDenbKZXG-gbdszY4yD1Bxcx1mJ6k&s=1776710507&e=43200&v=185503627&srv=s13&i=0.3&sp=0&fr=h54jt1rrtr0q&r=e
+
+#PELICULAS#
+#EXTINF:-1 tvg-id="DEPELICULA" tvg-logo="https://cuevana.gs/wp-content/uploads/thumbs/5022671a0fe95384f73596c0df156fad_hd.webp" group-title="FILM ON DEMAND",Super Mario Galaxy
+https://p5.vimeos.zip/hls2/02/00010/0a5sm8h3422y_,n,h,.urlset/master.m3u8?t=VsfgjXaZyPG-ePQYF_JfNSgB9XbgYLGzjAeuSbffOuQ&s=1776710857&e=43200&v=185509035&srv=s1&i=0.0&sp=0&fr=0a5sm8h3422y&r=e
