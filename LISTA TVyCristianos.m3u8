@@ -2,6 +2,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-ar.xml"
 #EXTM3U tvg-shift="-3"
 
+#CANALES DE INTERES GENERAL#
 #EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="AR - El Nueve" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png" group-title="Noticias" ,EL Nueve
@@ -29,6 +30,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157592
 #EXTINF:-1 tvg-id="AR - A24" tvg-logo="https://iptv-epg.org/logos/Argentina/A24.ar.png" group-title="Noticias" ,A24
 http://45.5.151.147:8000/play/a006/index.m3u8
 
+#CANALES INFANTILES#
 #EXTINF:-1 tvg-id="AR - Disney Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyChannel.ar.png" group-title="Infantil" ,Disney Channel
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
 #EXTINF:-1 tvg-id="AR - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png" group-title="Infantil" ,Disney JR
@@ -44,6 +46,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9871
 #EXTINF:-1 tvg-id="AR - Tooncast"  tvg-logo="https://iptv-epg.org/logos/Argentina/Tooncast.ar.png" group-title="Infantil" ,Tooncast
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9883
 
+#CANALES DE MUSICA#
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Musica" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telehit Musica"  group-title="Musica" ,Telehit Musica
@@ -61,6 +64,7 @@ http://181.78.82.6:46090/play/a0cd/index.m3u8
 #EXTINF:-1 tvg-id="Zona Latina"  group-title="Musica" ,KPOP PLAY
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
+#CANALES DE DOCUMENTALES#
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="AR - History" tvg-logo="https://iptv-epg.org/logos/Argentina/History.ar.png" group-title="Documentales" ,History
