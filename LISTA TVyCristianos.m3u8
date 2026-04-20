@@ -279,5 +279,11 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9741
 #EXTINF:-1 tvg-id="DEPELICULA" group-title="Peliculas",De Pelicula
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 
+#Peliculas#
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3bneJusWplLsCg7URLTgQ5ZRPRkWhQjF2w&s" group-title="Film Estrenos" ,Super Mario Galaxy
+https://enc7.goodstream.one/hls2/01/00087/bnss0d2cw5n8_n/index-v1-a1.m3u8?t=tzjxmqIlnjC9UtNibjU4iCjHGjJNXJan5PrVQyZLYTI&s=1776647666&e=43200&v=270771815&srv=s5&i=0.3&sp=0&fr=bnss0d2cw5n8
+
+#Series#
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b6/Los_Elegidos.webp/revision/latest?cb=20250906070821&path-prefix=es" group-title="Los Elegidos" ,Los Elegidos T1-E1
+https://enc10.goodstream.one/hls2/04/00077/3ykbp04a5spt_n/index-v1-a1.m3u8?t=aWff2alefRsCfdutL6-ZAzt04DY_5Px1uOSphsTOxhE&s=1776648149&e=43200&v=270779541&srv=s3&i=0.3&sp=0
 
