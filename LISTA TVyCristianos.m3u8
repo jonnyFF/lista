@@ -125,7 +125,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9566
 #EXTINF:-1 tvg-id="DSport +" tvg-logo="https://lh3.googleusercontent.com/-dxZyXXWvJDs/Yqp2MbCoR6I/AAAAAAAADpo/seuq6KMCveEvoqmHXCpW5Z9W3fS7qtHyQCNcBGAsYHQ/w200-h200/1655338543433516-0.png" group-title="Deporte" ,DSport +
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9559
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="" group-title="Deporte" ,Fox sport
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/459.m3u8
+http://181.13.252.102:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png" group-title="Deporte" ,Fox sport 2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
 #EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png"  group-title="Deporte" ,Fox sport 3
@@ -139,7 +139,7 @@ http://181.78.82.6:46090/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9549
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9526
+http://181.205.130.194:4000/play/a07i
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2 Sur
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179489
 #EXTINF:-1 tvg-id="AR - ESPN Sur 3" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN3.ar.png" group-title="Deporte" ,Espn3
