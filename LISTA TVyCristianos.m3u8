@@ -283,37 +283,3 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9741
 #EXTINF:-1 tvg-id="DEPELICULA" group-title="Peliculas",De Pelicula
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 
-#SERIES#
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E1
-https://p3.vimeos.zip/hls2/03/00007/whle6zb5cqeo_,n,h,.urlset/master.m3u8?t=951hstykcQYHBB6ZkmhV-pGTp7sFjJiLT_6mO13XXwc&s=1776709187&e=43200&v=185481976&srv=s13&i=0.0&sp=0&fr=whle6zb5cqeo&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E2
-https://s14.vimeos.net/hls2/02/00007/2ca49n2e0fet_,n,h,.urlset/master.m3u8?t=n3tDMjcZh_fOETdtMZaeZnD3k0TFyhrXXzlk5NIES_o&s=1776711524&e=43200&v=185487830&i=0.0&sp=0&fr=2ca49n2e0fet&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E3
-https://p4.vimeos.zip/hls2/03/00007/bk1edcurmw90_,n,h,.urlset/master.m3u8?t=k9W4IW--4_FEOP_3g3-z18T_OMI4HFkU9ltdHxYzIMQ&s=1776712692&e=43200&v=185489273&srv=s13&i=0.0&sp=0&fr=bk1edcurmw90&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E4
-https://s13.vimeos.net/hls2/02/00007/dok1smudd3cf_,n,h,.urlset/master.m3u8?t=v4rZdJrVS7aExXqBbQocDHyML7jYh6JKYFBE9Et_cys&s=1776709845&e=43200&v=185493349&i=0.0&sp=0&fr=dok1smudd3cf&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E5
-https://p4.vimeos.zip/hls2/02/00007/kxt84l4scv9j_h/master.m3u8?t=XBWWVuidW3klbDhSXzsYlHy_AfYqJJsR7Qhl4UFmC-Y&s=1776712817&e=43200&v=185496738&srv=s8&i=0.0&sp=0&fr=kxt84l4scv9j&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E6
-https://s13.vimeos.net/hls2/02/00007/n6w91js0pewd_,n,h,.urlset/master.m3u8?t=mxGT536NXVFUDtleEdZR_2UAegV5O1PFzJ6NVfhyoOg&s=1776710394&e=43200&v=185501828&i=0.0&sp=0&fr=n6w91js0pewd&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E7
-https://p2.vimeos.zip/hls2/02/00007/zcinxjbtrw55_,n,h,.urlset/master.m3u8?t=dPFpkHCSlgpV12b_OG2cRHZLjzP2ogl_PcBrKLZ_Y4U&s=1776710456&e=43200&v=185502802&srv=s13&i=0.0&sp=0&fr=zcinxjbtrw55&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://mx.web.img2.acsta.net/r_1920_1080/pictures/24/01/25/23/05/1429375.jpg" group-title="SERIES ON DEMAND",LOS ELEGIDOS T1-E8
-https://s13.vimeos.net/hls2/02/00007/h54jt1rrtr0q_,n,h,.urlset/master.m3u8?t=_orEsJwmT9MT4BBtZtYVYdr-ZXT3hsa2uFi--MPnGO8&s=1776712970&e=43200&v=185503627&i=0.0&sp=0&fr=h54jt1rrtr0q&r=e
-
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://github.com/jonnyFF/Precios/blob/main/ELCABALLERO7.jpg?raw=true" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E1
-https://p3.vimeos.zip/hls2/02/00007/2jgybzcof3h2_,n,h,.urlset/master.m3u8?t=rTvs_TraXFEw29Dsntgazm6gVCTV1O0rCZ7uoc5iRo4&s=1776713124&e=43200&v=185546028&srv=s13&i=0.0&sp=0&fr=2jgybzcof3h2&r=e
-#EXTINF:1 tvg-id="DEPELICULA" Ttvg-logo="https://raw.githubusercontent.com/jonnyFF/Precios/refs/heads/main/ELCABALLERO7.jpg" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E2
-https://s14.vimeos.net/hls2/03/00008/mrknbdc8279d_,n,h,.urlset/master.m3u8?t=AwJlOvU4TvVBWwWiaJ1BUyZWW8oGWrCcAd7UwrVwebg&s=1776713158&e=43200&v=185546612&i=0.0&sp=0&fr=mrknbdc8279d&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f5/A_Knight_of_the_Seven_Kingdoms_Poster_Latino.jpg/revision/latest/scale-to-width-down/1200?cb=20260119085603&path-prefix=es" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E3
-https://s13.vimeos.net/hls2/02/00008/tsqa1ctpfysp_,n,h,.urlset/master.m3u8?t=HdEnNeA__XCLENVFZgTz4tIYjLFkwupfPcaExe566Po&s=1776713187&e=43200&v=185547133&i=0.0&sp=0&fr=tsqa1ctpfysp&r=e
-#EXTINF:1 tvg-id="DEPELICULA" Ttvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f5/A_Knight_of_the_Seven_Kingdoms_Poster_Latino.jpg/revision/latest/scale-to-width-down/1200?cb=20260119085603&path-prefix=es" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E4
-https://p6.vimeos.zip/hls2/03/00010/z7yta6eh1j33_,n,h,.urlset/master.m3u8?t=MsxCRNFpO4KE9FnMaxvTeysQ1LTG7IB9skjQ-Skwaaw&s=1776713216&e=43200&v=185547614&srv=s1&i=0.0&sp=0&fr=z7yta6eh1j33&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f5/A_Knight_of_the_Seven_Kingdoms_Poster_Latino.jpg/revision/latest/scale-to-width-down/1200?cb=20260119085603&path-prefix=es" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E5
-https://p2.vimeos.zip/hls2/02/00008/df373yttfa18_,n,h,.urlset/master.m3u8?t=9ta9DP2ZqfDMg98uZCPoc5F5cT-ii69iHTKPwXbi39k&s=1776713240&e=43200&v=185548038&srv=s14&i=0.3&sp=0&fr=df373yttfa18&r=e
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f5/A_Knight_of_the_Seven_Kingdoms_Poster_Latino.jpg/revision/latest/scale-to-width-down/1200?cb=20260119085603&path-prefix=es" group-title="SERIES ON DEMAND",EL CABALLERO DE LO 7 REINOS T1-E6
-https://p3.vimeos.zip/hls2/03/00009/hp7myp4pqzlw_,n,h,.urlset/master.m3u8?t=j16b0OZoILMVzZRIw37RnTwsXgOhyNkyXPorPTERGX0&s=1776713267&e=43200&v=185548505&srv=s14&i=0.0&sp=0&fr=hp7myp4pqzlw&r=e
-
-#PELICULAS#
-#EXTINF:1 tvg-id="DEPELICULA" tvg-logo="https://www.nintenderos.com/wp-content/uploads/2010/03/art-box-super-mario-galaxy-2.jpg" group-title="FILM ON DEMAND",INF-Super Mario Galaxy
-https://s1.vimeos.net/hls2/02/00010/0a5sm8h3422y_,n,h,.urlset/master.m3u8?t=ctI8QSHOBypxp9OLUNk9jhHtjjOgPmuuJ9OwWyV-AL4&s=1776812092&e=43200&v=187058106&i=0.0&sp=0&fr=0a5sm8h3422y&r=e
