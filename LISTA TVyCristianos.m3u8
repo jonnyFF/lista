@@ -137,7 +137,7 @@ http://181.78.7.90:12500/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN Sur 4"  group-title="Deporte" ,Espn Premium sur
 http://181.78.82.6:46090/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9549
+http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2
 http://181.205.130.194:4000/play/a07i
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2 Sur
