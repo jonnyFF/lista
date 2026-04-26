@@ -130,8 +130,8 @@ http://181.13.252.102:8000/play/a07j/index.m3u8
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
 #EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png"  group-title="Deporte" ,Fox sport 3
 http://181.13.252.102:8000/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn1
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/447.m3u8
+#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn
+http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn Disney
 http://181.78.7.90:12500/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN Sur 4"  group-title="Deporte" ,Espn Premium sur
