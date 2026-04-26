@@ -17,9 +17,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157587
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157591
 #EXTINF:-1 tvg-id="AR - América TV" tvg-logo="https://iptv-epg.org/logos/Argentina/AmericaTV.ar.png" group-title="Noticias" ,America Tv
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157612
-#EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://iptv-epg.org/logos/Argentina/Telefe.ar.png" group-title="Noticias" ,Telefe HD
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157589
-#EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe Int
+#EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
 #EXTINF:-1 tvg-id="AR - C5N" tvg-logo="https://iptv-epg.org/logos/Argentina/C5N.ar.png" group-title="Noticias" ,C5n
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157566
