@@ -127,7 +127,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
 #EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png"  group-title="Deporte" ,Fox sport 3
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn
-http://181.13.252.102:8000/play/a05a/index.m3u8
+http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9522
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium2
