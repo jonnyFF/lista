@@ -147,7 +147,7 @@ http://181.224.200.5:2277/play/a02k/index.m3u8
 http://181.224.200.5:2277/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Espn7"  group-title="Deportes" ,Espn7
 http://181.224.200.5:2277/play/a02l/index.m3u8
-#EXTINF:-1 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport
+#EXTINF:-1 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport Premium
 http://38.188.186.47:4000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deportes" ,Deport TV
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157573
