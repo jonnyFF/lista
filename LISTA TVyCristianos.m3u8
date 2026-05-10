@@ -116,7 +116,7 @@ http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8542
 #EXTINF:-1 tvg-id="Directv Premium UY"  group-title="Deportes" ,Directv Premium UY
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/184013
 #EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deportes" ,DSport1
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9560
+http://38.252.213.12:8000/play/a01k
 #EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deportes" ,DSport2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9566
 #EXTINF:-1 tvg-id="DSport +" tvg-logo="" group-title="Deportes" ,DSport +
