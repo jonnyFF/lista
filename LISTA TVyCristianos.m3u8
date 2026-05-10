@@ -109,7 +109,7 @@ https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://iptv-epg.org/logos/Argentina/TyCSports.ar.png" group-title="Deporte" ,TyC sport
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+http://181.13.252.102:8000/play/a02s/index.m3u8
 #EXTINF:-1 tvg-id="URU-VTV Plus"  group-title="Deporte" ,URU-VTV Plus
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8542
 #EXTINF:-1 tvg-id="Directv Premium UY"  group-title="Deporte" ,Directv Premium UY
@@ -127,13 +127,13 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
 #EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png"  group-title="Deporte" ,Fox sport 3
 http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deporte" ,Espn
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9522
+http://181.13.252.102:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9549
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deporte" ,Espn Premium2
 http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9526
+http://181.13.252.102:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deporte" ,Espn2 Sur
 http://45.70.201.81:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN Sur 3" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN3.ar.png" group-title="Deporte" ,Espn3
@@ -141,11 +141,11 @@ http://181.13.252.102:8000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 4" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN4.ar.png" group-title="Deporte" ,Espn4
 http://190.60.32.178:8178/play/a0b3/index.m3u8
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deporte" ,Espn5
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/179513
+http://181.224.200.5:2277/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="Espn6"  group-title="Deporte" ,Espn6
 http://181.224.200.5:2277/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Espn7"  group-title="Deporte" ,Espn7
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9543
+http://181.224.200.5:2277/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="Tnt sport"  group-title="Deporte" ,Tnt sport
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157584
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deporte" ,Deport TV
