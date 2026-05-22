@@ -151,18 +151,15 @@ http://181.224.200.5:2277/play/a02l/index.m3u8
 http://38.188.186.47:4000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="Deport TV"  group-title="Deportes" ,Deport TV
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157573
-#EXTINF:-1 tvg-id="Bein Sports Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png/revision/latest/scale-to-width-down/250?cb=20201108180658" group-title="Deportes" ,Bein Sports Xtra
+#EXTINF:-1 tvg-id="Bein Sports Xtra"  group-title="Deportes" ,Bein Sports Xtra
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-id="Bein Sports ñ" tvg-logo="" group-title="Deportes" ,Bein Sports ñ
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9552
+
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Deportes",DAZN F1 HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 #EXTINF:-1 tvg-id="Sky sports"  group-title="Deportes" ,Sky sports
 http://201.190.41.246:58002/play/a02h/index.m3u8
 #EXTINF:-1 tvg-id="Fifa +"  group-title="Deportes" ,Fifa +
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
-#EXTINF:-1 tvg-id="Danz Laliga"  group-title="Deportes" ,Danz Laliga
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/156157
 #EXTINF:-1 tvg-id="TUDN USA"  group-title="Deportes" ,TUDN USA
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9605
 #EXTINF:-1 tvg-id="Liga de Campeones"  group-title="Deportes" ,Liga de Campeones
