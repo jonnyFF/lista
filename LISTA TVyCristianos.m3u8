@@ -153,7 +153,6 @@ http://38.188.186.47:4000/play/a00m/index.m3u8
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157573
 #EXTINF:-1 tvg-id="Bein Sports Xtra"  group-title="Deportes" ,Bein Sports Xtra
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Deportes",DAZN F1 HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u8
 #EXTINF:-1 tvg-id="Sky sports"  group-title="Deportes" ,Sky sports
@@ -175,6 +174,8 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 
 
 #CULTURALES#
+#EXTINF:-1 tvg-id="Culturales" group-title="Culturales",VOLVER
+http://181.13.252.102:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="AR - Argentinísima Satelital" tvg-logo="https://iptv-epg.org/logos/Argentina/ArgentinisimaSatelital.ar.png"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
