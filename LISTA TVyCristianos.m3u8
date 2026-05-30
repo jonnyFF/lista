@@ -184,8 +184,6 @@ https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
 #EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 13 CHILE" group-title="Culturales",Canal 13 CHILE
-http://181.78.82.6:46090/play/a0cy/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" group-title="Culturales",El Gourmet
 http://181.78.82.6:46090/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="AR - CineAr" tvg-logo="https://iptv-epg.org/logos/Argentina/CineAr.ar.png" group-title="Culturales",Cine AR
@@ -239,7 +237,7 @@ http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9630
 #EXTINF:-1 tvg-id="AR - Cinemax (Sur)" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinemax.ar.png" group-title="Peliculas",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="AR - Space" tvg-logo="https://iptv-epg.org/logos/Argentina/Space.ar.png" group-title="Peliculas",Space
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9717
+http://45.228.234.30:16000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="AR - Studio Universal" tvg-logo="https://iptv-epg.org/logos/Argentina/StudioUniversal.ar.png" group-title="Peliculas",Studio
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
 #EXTINF:-1 tvg-id="AR - Universal TV" TVG-LOGO="https://iptv-epg.org/logos/Argentina/UniversalTV.ar.png" group-title="Peliculas",Universal
