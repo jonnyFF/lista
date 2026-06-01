@@ -27,19 +27,18 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 #CANALES INFANTILES#
 #EXTINF:-1 tvg-id="AR - Disney Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyChannel.ar.png" group-title="Infantil" ,Disney Channel
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9866
+http://181.13.252.102:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-id="AR - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png" group-title="Infantil" ,Disney JR
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9869
+http://181.13.252.102:8000/play/a04y/index.m3u8
 #EXTINF:-1 tvg-id="AR - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Argentina/NickJr..ar.png" group-title="Infantil" ,Nick JR
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9877
+http://181.13.252.102:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="AR - Cartoon Network" tvg-logo="https://iptv-epg.org/logos/Argentina/CartoonNetwork.ar.png" group-title="Infantil" ,Cartoon Network
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9861
+http://181.13.252.102:8000/play/a075/index.m3u8
 #EXTINF:-1 tvg-id="AR - Discovery Kids" tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryKids.ar.png"  group-title="Infantil" ,Discovery Kids
-http://190.60.32.178:8178/play/a0hm/index.m3u8
+http://181.13.252.102:8000/play/a06t/index.m3u9
 #EXTINF:-1 tvg-id="Nickelodeon"  group-title="Infantil" ,Nickelodeon
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9871
-#EXTINF:-1 tvg-id="AR - Tooncast"  tvg-logo="https://iptv-epg.org/logos/Argentina/Tooncast.ar.png" group-title="Infantil" ,Tooncast
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9883
+http://181.13.252.102:8000/play/a04z/index.m3u8
+
 
 #CANALES DE MUSICA#
 #EXTINF:11,Quiero Musica tv
