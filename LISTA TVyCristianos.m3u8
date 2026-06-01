@@ -17,9 +17,9 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
 #EXTINF:-1 tvg-id="AR - C5N" tvg-logo="https://iptv-epg.org/logos/Argentina/C5N.ar.png" group-title="Noticias" ,C5n
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157566
+http://181.13.252.102:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="AR - LN+" tvg-logo="https://iptv-epg.org/logos/Argentina/LN%2B.ar.png" group-title="Noticias" ,LN+
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157592
+http://181.13.252.102:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="AR - A24" tvg-logo="https://iptv-epg.org/logos/Argentina/A24.ar.png" group-title="Noticias" ,A24
 http://45.5.151.147:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="AR - A24"  group-title="Noticias" ,canal 9 sureste
