@@ -111,7 +111,7 @@ https://streamtpday1.xyz/global1.php?stream=tycsports
 #EXTINF:11 tvg-id="telefe"  group-title="Deportes" ,Telefe Deportes
 https://streamtpday1.xyz/global1.php?stream=telefe
 #EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deportes" ,DSport1
-https://streamtpday1.xyz/global1.php?stream=dsports
+https://st.streamtpday1.xyz/dsports/tracks-v1a1/mono.m3u8?ip=148.222.222.146&token=7ba4cbefbce75ec4ae45215642b37a3829563dd6-46-1781793111-1781739111
 #EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deportes" ,DSport2
 http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9566
 #EXTINF:11 tvg-id="DSport +" tvg-logo="" group-title="Deportes" ,DSport +
