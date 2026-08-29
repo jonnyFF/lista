@@ -2,100 +2,33 @@
 #CANALES DE INTERES GENERAL#
 #EXTINF:-1 tvg-id="EL NUEVE.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Canal_9_Litoral_%28Logo_2025%29.png"  group-title="Noticias" ,Canal 9 Litoral
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="AR - El Nueve" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElNueve.ar.png" group-title="Noticias" ,EL Nueve
-http://181.13.252.102:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="AR - Canal 26" tvg-logo="https://iptv-epg.org/logos/Argentina/Canal26.ar.png" group-title="Noticias" ,Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="AR - TN" tvg-logo="https://iptv-epg.org/logos/Argentina/TN.ar.png" group-title="Noticias" ,TN Noticias
-http://181.13.252.102:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="AR - Televisión Pública" tvg-logo="https://iptv-epg.org/logos/Argentina/TelevisionPublica.ar.png"group-title="Noticias" ,Tv Publica
-http://181.13.252.102:8000/play/a056/index.m3u8
 #EXTINF:11 tvg-id="AR - El Trece" tvg-logo="https://iptvboss.xyz/logos/Argentina/ElTrece.ar.png" group-title="Noticias" ,Canal 13
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="AR - América TV" tvg-logo="https://iptv-epg.org/logos/Argentina/AmericaTV.ar.png" group-title="Noticias" ,America Tv
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 tvg-id="AR - Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Telefe_Internacional_%282018%29.png" group-title="Noticias" ,Telefe
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157590
-#EXTINF:-1 tvg-id="AR - C5N" tvg-logo="https://iptv-epg.org/logos/Argentina/C5N.ar.png" group-title="Noticias" ,C5n
-http://181.13.252.102:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="AR - LN+" tvg-logo="https://iptv-epg.org/logos/Argentina/LN%2B.ar.png" group-title="Noticias" ,LN+
-http://181.13.252.102:8000/play/a01s/index.m3u8
-#EXTINF:-1 tvg-id="AR - A24" tvg-logo="https://iptv-epg.org/logos/Argentina/A24.ar.png" group-title="Noticias" ,A24
-http://45.5.151.147:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="AR - A24"  group-title="Noticias" ,canal 9 sureste
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-
 #CANALES INFANTILES#
-#EXTINF:-1 tvg-id="AR - Disney Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyChannel.ar.png" group-title="Infantil" ,Disney Channel
-http://181.13.252.102:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="AR - Disney Junior" tvg-logo="https://iptv-epg.org/logos/Argentina/DisneyJunior.ar.png" group-title="Infantil" ,Disney JR
-http://181.13.252.102:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="AR - Nick Jr." tvg-logo="https://iptv-epg.org/logos/Argentina/NickJr..ar.png" group-title="Infantil" ,Nick JR
-http://181.13.252.102:8000/play/a06u/index.m3u8
-#EXTINF:-1 tvg-id="AR - Cartoon Network" tvg-logo="https://iptv-epg.org/logos/Argentina/CartoonNetwork.ar.png" group-title="Infantil" ,Cartoon Network
-http://181.13.252.102:8000/play/a075/index.m3u8
-#EXTINF:-1 tvg-id="AR - Discovery Kids" tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryKids.ar.png"  group-title="Infantil" ,Discovery Kids
-http://181.13.252.102:8000/play/a06t/index.m3u9
-#EXTINF:-1 tvg-id="Nickelodeon"  group-title="Infantil" ,Nickelodeon
-http://181.13.252.102:8000/play/a04z/index.m3u8
-
-
 #CANALES DE MUSICA#
-#EXTINF:11,Quiero Musica tv
-http://181.13.252.102:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="La 100 Radio"  group-title="Musica" ,La 100 Radio
 https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Telehit Musica"  group-title="Musica" ,Telehit Musica
 http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:-1 tvg-id="Vevo Latino"  group-title="Musica" ,Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Pop"  group-title="Musica" ,Vevo Pop
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Pop"  group-title="Musica" ,VEVO RETRO ROCK
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleritmo"  group-title="Musica" ,Teleritmo
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/8318
 #EXTINF:-1 tvg-id="Zona Latina"  group-title="Musica" ,Zona Latina
 http://181.78.82.6:46090/play/a0cd/index.m3u8
 #EXTINF:-1 tvg-id="Zona Latina"  group-title="Musica" ,KPOP PLAY
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:11,H tv
-http://181.13.252.102:8000/play/a02o/index.m3u8
-
-
 #CANALES DE DOCUMENTALES#
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-id="AR - History" tvg-logo="https://iptv-epg.org/logos/Argentina/History.ar.png" group-title="Documentales" ,History
-http://181.13.252.102:8000/play/a051/index.m3u8
-#EXTINF:-1 tvg-id="AR - History 2" tvg-logo="https://iptv-epg.org/logos/Argentina/History2.ar.png" group-title="Documentales" ,History2
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9839
 #EXTINF:-1 tvg-id="AR - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
-#EXTINF:-1 tvg-id="AR - Discovery Channel" tvg-logo="https://iptv-epg.org/logos/Argentina/Discovery.ar.png" group-title="Documentales" ,Discovery Channel
-http://181.13.252.102:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Familia"  group-title="Documentales" ,Discovery Familia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
-#EXTINF:-1 tvg-id="AR - Discovery Home & Health"  tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryHomeAndHealth.ar.png" group-title="Documentales" ,Discovery Home & Health
-http://181.13.252.102:8000/play/a07h/index.m3u8
-#EXTINF:-1 tvg-id="AR - Investigation Discovery" tvg-logo="https://iptv-epg.org/logos/Argentina/InvestigationDiscovery.ar.png" group-title="Documentales" ,Discovery ID
-http://177.10.184.193:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-id="Discovery World"  group-title="Documentales" ,Discovery World
-http://181.13.252.102:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Science"  group-title="Documentales" ,Discovery Science
-http://181.13.252.102:8000/play/a02k/index.m3u8
-#EXTINF:-1 tvg-id="AR - Discovery Turbo" tvg-logo="https://iptv-epg.org/logos/Argentina/DiscoveryTurbo.ar.png"  group-title="Documentales" ,Discovery Turbo
-http://181.13.252.102:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="AR - National Geographic" tvg-logo="https://iptv-epg.org/logos/Argentina/NationalGeographic.ar.png"  group-title="Documentales" ,Nat Geo
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/161998
-#EXTINF:-1 tvg-id="AR - National Geographic Wild" tvg-logo="https://iptv-epg.org/logos/Argentina/NationalGeographicWild.ar.png"  group-title="Documentales" ,Nat Geo Wild
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/8218
-#EXTINF:-1 tvg-id="Nat Geo Mundo"  group-title="Documentales" ,Nat Geo Mundo
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9848
-#EXTINF:-1 tvg-id="Love Nature"  group-title="Documentales" ,Love Nature
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9845
-#EXTINF:-1 tvg-id="AR - HGTV" tvg-logo="https://iptv-epg.org/logos/Argentina/HGTV.ar.png" group-title="Documentales" ,HGTV
-http://181.13.252.102:8000/play/a02j/index.m3u8
 #EXTINF:-1 tvg-id="MX - A&E" tvg-logo="https://iptv-epg.org/logos/Argentina/AandE.ar.png" group-title="Documentales",A&E
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="" group-title="Documentales",UNIVERSAL CRIME
@@ -104,30 +37,17 @@ https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/365.m3u8
 https://stmv2.voxtvhd.com.br/xpherescience/xpherescience/playlist.m3u8
 #EXTINF:-1 tvg-id="XPHERE WILD" tvg-logo="" group-title="Documentales",XPHERE WILD
 https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
-
 #DEPORTES
 #EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://iptv-epg.org/logos/Argentina/TyCSports.ar.png" group-title="Deportes" ,TyC sport
 https://streamtpday1.xyz/global1.php?stream=tycsports
 #EXTINF:11 tvg-id="telefe"  group-title="Deportes" ,Telefe Deportes
 https://streamtpday1.xyz/global1.php?stream=telefe
-#EXTINF:-1 tvg-id="Directv Sport1"  group-title="Deportes" ,DSport1
-https://st.streamtpday1.xyz/dsports/tracks-v1a1/mono.m3u8?ip=148.222.222.146&token=7ba4cbefbce75ec4ae45215642b37a3829563dd6-46-1781793111-1781739111
-#EXTINF:-1 tvg-id="Directv Sport2"  group-title="Deportes" ,DSport2
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9566
-#EXTINF:11 tvg-id="DSport +" tvg-logo="" group-title="Deportes" ,DSport +
-https://sa.streamtpday1.xyz/dsportsplus/tracks-v1a1/mono.m3u8?ip=148.222.222.146&token=2d342212673f73722211e437bfe5015a03d56af9-bb-1781782744-1781728744
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="" group-title="Deportes" ,Fox sport
 https://streamtpday1.xyz/global1.php?stream=fox1ar
-#EXTINF:-1 tvg-id="AR - FOX Sports 2" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports2.ar.png" group-title="Deportes" ,Fox sport 2
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9581
-#EXTINF:-1 tvg-id="AR - FOX Sports 3" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSports3.ar.png"  group-title="Deportes" ,Fox sport 3
-http://181.13.252.102:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deportes" ,Espn
 https://streamtpday1.xyz/global1.php?stream=espn
 #EXTINF:11 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deportes" ,Espn Premium
 https://streamtpday1.xyz/global1.php?stream=espnpremium
-#EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deportes" ,Espn Premium2
-http://181.13.252.102:8000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deportes" ,Espn2
 https://streamtpday1.xyz/global1.php?stream=espn2
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deportes" ,Espn2 Sur
@@ -140,39 +60,23 @@ https://streamtpday1.xyz/global1.php?stream=espn4
 https://streamtpday1.xyz/global1.php?stream=espn5
 #EXTINF:11 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport Premium
 https://streamtpday1.xyz/global1.php?stream=tntsports
-#EXTINF:-1 tvg-id="Deport TV"  group-title="Deportes" ,Deport TV
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/157573
 #EXTINF:-1 tvg-id="Bein Sports Xtra"  group-title="Deportes" ,Bein Sports Xtra
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Deportes",DAZN F1 HD
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/374.m3u88
 #EXTINF:-1 tvg-id="Azteca 7" tvg-logo="https://posters.hyloft.online/1547833954389.png" group-title="Deportes" ,Azteca Deportes
 http://201.216.147.90:8729/play/a01t
-#EXTINF:-1 tvg-id="UFC"  group-title="Deportes" ,UFC
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9610
-
-
-
 #CULTURALES#
-#EXTINF:-1 tvg-id="Culturales" group-title="Culturales",VOLVER
-http://181.13.252.102:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-id="AR - Argentinísima Satelital" tvg-logo="https://iptv-epg.org/logos/Argentina/ArgentinisimaSatelital.ar.png"  group-title="Culturales" ,Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="FailArmy" group-title="Culturales",FailArmy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AR - TV Globo" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TVGlobo.ar.png" group-title="Culturales",Globo-Brasil
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/180732
-#EXTINF:-1 tvg-id="RT Español" group-title="Culturales",RT Español
-https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="El Gourmet" group-title="Culturales",El Gourmet
 http://181.78.82.6:46090/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="AR - CineAr" tvg-logo="https://iptv-epg.org/logos/Argentina/CineAr.ar.png" group-title="Culturales",Cine AR
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/157601
 #EXTINF:-1 tvg-id="Telemundo Inter" group-title="Culturales",Telemundo Inter
 http://201.216.147.90:8729/play/a0c7
 #EXTINF:-1 tvg-id="Caracol TV"  group-title="Culturales",Caracol TV
 http://45.228.234.30:16000/play/a04e/index.m3u8
-
 #CRISTIANAS#
 #EXTINF:0 tvg-id="Enlace" group-title="Cristianas" ,Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -188,70 +92,37 @@ https://tls-cl.cdnz.cl/televida/live/chunklist_w1838709153.m3u8
 https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="Extrema Kids"  group-title="Cristianas" ,Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w441091549.m3u8
-
-
-#EXTINF:-1 tvg-id="AR - Golden" tvg-logo="https://iptv-epg.org/logos/Argentina/Golden.ar.png" group-title="Peliculas",Golden
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9657
+#PELICULAS#
 #EXTINF:-1 tvg-id="Golden Premier" group-title="Peliculas",Golden Premier
 http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="AR - Golden Edge"tvg-logo="https://iptv-epg.org/logos/Argentina/GoldenEdge.ar.png"  group-title="Peliculas",Golden Edge
 http://45.186.254.75:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="AR - HBO" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9666
 #EXTINF:-1 tvg-id="AR - HBOPOP" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO POP
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
 #EXTINF:-1 tvg-id="AR - HBOMUNDI" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO MUNDI
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
-#EXTINF:-1 tvg-id="AR - HBO 2" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO2.ar.png" group-title="Peliculas",HBO 2
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9672
 #EXTINF:-1 tvg-id="AR - HBO SIGNATURE" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO2.ar.png" group-title="Peliculas",HBO SIGNATURE
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
 #EXTINF:-1 tvg-id="AR - HBO Family" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOFamily.ar.png" group-title="Peliculas",HBO Family
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
 #EXTINF:-1 tvg-id="AR - HBO Plus (Panamericano)" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOPlus%28Panamericano%29.ar.png" group-title="Peliculas",HBO +
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
-#EXTINF:-1 tvg-id="AR - HBO Xtreme" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOXtreme.ar.png" group-title="Peliculas",HBO Xtreme
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9699
-#EXTINF:-1 tvg-id="AR - Cinecanal" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinecanal.ar.png" group-title="Peliculas",Cinecanal
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9630
 #EXTINF:-1 tvg-id="AR - Cinemax (Sur)" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinemax.ar.png" group-title="Peliculas",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="AR - Space" tvg-logo="https://iptv-epg.org/logos/Argentina/Space.ar.png" group-title="Peliculas",Space
 http://45.228.234.30:16000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="AR - Studio Universal" tvg-logo="https://iptv-epg.org/logos/Argentina/StudioUniversal.ar.png" group-title="Peliculas",Studio
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
-#EXTINF:-1 tvg-id="AR - Universal TV" TVG-LOGO="https://iptv-epg.org/logos/Argentina/UniversalTV.ar.png" group-title="Peliculas",Universal
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9755
-#EXTINF:-1 tvg-id="Universal Cinema" group-title="Peliculas",Universal Cinema
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9757
 #EXTINF:-1 tvg-id="Universal Premiere" group-title="Peliculas",Universal Premiere
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
-#EXTINF:-1 tvg-id="TNT" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TNT.ar.png" group-title="Peliculas",Tnt
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9742
 #EXTINF:-1 tvg-id="AR - TNT" group-title="Peliculas",Tnt Retro
 http://181.78.82.6:46090/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AR - TNT Series" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TNTSeries.ar.png" group-title="Peliculas",Tnt Series
 http://181.78.82.6:46090/play/a072/index.m3u8
-#EXTINF:-1 tvg-id="AR - Warner Channel" TVG-LOGO="https://iptv-epg.org/logos/Argentina/WarnerChannel.ar.png" group-title="Peliculas",Warner
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9775
-#EXTINF:-1 tvg-id="AR - Sony" tvg-logo="https://iptv-epg.org/logos/Argentina/Sony.ar.png" group-title="Peliculas",Sony Channel
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9712
-#EXTINF:-1 tvg-id="AR - AXN" tvg-logo="https://iptv-epg.org/logos/Argentina/AXN.ar.png" group-title="Peliculas",AXN
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
 #EXTINF:-1 tvg-id="AR - FX"  tvg.logo="https://iptv-epg.org/logos/Argentina/FX.ar.png" group-title="Peliculas",FX
 http://217.26.190.76:8888/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-id="AR - Star Channel tvg-logo="https://iptv-epg.org/logos/Argentina/StarChannel.ar.png" group-title="Peliculas",Star Channel
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9721
-#EXTINF:-1 tvg-id="Paramount +" group-title="Peliculas",Paramount +
-http://tv.diablotv.net:8080/OscRam06112019/dbd07f9580f1/9705
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://iptv-epg.org/logos/Argentina/AMC.ar.png" group-title="Peliculas",AMC
 http://181.78.82.6:46090/play/a08a/index.m3u8
-#EXTINF:-1 tvg-id="AR - Cinelatino" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinelatino.ar.png" group-title="Peliculas",Cine Latino
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9626
-#EXTINF:-1 tvg-id="Starz Family" group-title="Peliculas",Starz Family
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9731
-#EXTINF:-1 tvg-id="AR - TCM" tvg-logo="https://iptv-epg.org/logos/Argentina/TCM.ar.png"  group-title="Peliculas",TCM
-http://tv.diablotv.net:8080/maynnavarro1/4c54171d85a6/9741
 #EXTINF:-1 tvg-id="DEPELICULA" group-title="Peliculas",De Pelicula
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
-
