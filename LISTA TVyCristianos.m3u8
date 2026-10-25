@@ -83,7 +83,7 @@ http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 4" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN4.ar.png" group-title="Deportes" ,Espn4
 https://streamtpday1.xyz/global1.php?stream=espn4
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn5
-https://streamtpday1.xyz/global1.php?stream=espn5
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:11 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport Premium
 https://streamtpday1.xyz/global1.php?stream=tntsports
 #EXTINF:-1 tvg-id="Bein Sports Xtra"  group-title="Deportes" ,Bein Sports Xtra
