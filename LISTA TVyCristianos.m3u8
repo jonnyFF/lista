@@ -82,11 +82,11 @@ http://181.78.12.119:16123/play/ch09/index.m3u8
 
 #DEPORTES
 #EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://iptv-epg.org/logos/Argentina/TyCSports.ar.png" group-title="Deportes" ,TyC sport
-https://streamtpday1.xyz/global1.php?stream=tycsports
-#EXTINF:11 tvg-id="telefe"  group-title="Deportes" ,Telefe Deportes
-https://streamtpday1.xyz/global1.php?stream=telefe
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:11 tvg-id="telefe"  group-title="Deportes" ,TyC Sport Usa
+http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="" group-title="Deportes" ,Fox sport
-https://streamtpday1.xyz/global1.php?stream=fox1ar
+http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deportes" ,Espn
 http://181.78.12.119:16123/play/ch16/index.m3u8
 #EXTINF:11 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deportes" ,Espn Premium
@@ -208,6 +208,8 @@ http://45.228.234.30:16000/play/a01a/index.m3u8
 http://45.228.234.30:16000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Peliculas",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Peliculas",Cinecanal
+http://181.78.12.119:16123/play/ch10/index.m3u8
 
 #SIN DEFINIR #
 #EXTINF:11,Telemundo HD
