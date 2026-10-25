@@ -44,12 +44,14 @@ http://45.228.234.30:16000/play/a03a/index.m3u8
 #CANALES DE DOCUMENTALES#
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,History 2
+http://200.115.120.1:8000/play/ca181/index.m3
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,NatGeo
 http://181.78.12.119:16123/play/ch30/index.m3u8
 #EXTINF:-1 tvg-id="AR - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
 http://181.78.12.119:16123/play/ch29/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Familia"  group-title="Documentales" ,Discovery Familia
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
+http://200.115.120.1:8000/play/ca053/index.m3u8
 #EXTINF:-1 tvg-id="MX - A&E" tvg-logo="https://iptv-epg.org/logos/Argentina/AandE.ar.png" group-title="Documentales",A&E
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/3.m3u8
 #EXTINF:-1 tvg-id="UNIVERSAL CRIME" tvg-logo="" group-title="Documentales",UNIVERSAL CRIME
@@ -80,6 +82,8 @@ http://181.78.12.119:16123/play/ch03/index.m3u8
 http://181.78.12.119:16123/play/ch02/index.m3u8
 #EXTINF:11 group-title="Infantiles",Cartoon Network
 http://181.78.12.119:16123/play/ch09/index.m3u8
+#EXTINF:11 group-title="Infantiles",Plim Plin
+http://200.115.120.1:8000/play/ca091/index.m3u8
 
 
 #DEPORTES
@@ -104,7 +108,7 @@ https://streamtpday1.xyz/global1.php?stream=espn4
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn5
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn6
-http://181.78.12.119:16123/play/ch20/index.m3u8
+http://200.115.120.1:8000/play/ca150/index.m3u8
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn7
 http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:11 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport Premium
@@ -123,6 +127,8 @@ http://201.216.147.90:8729/play/a0p0
 http://181.205.130.194:4000/play/a07i
 #EXTINF:11 group-title="Deportes",CANAL 4
 http://45.228.234.30:16000/play/a06e/index.m3u8
+#EXTINF:11 group-title="Deportes",DAZN
+http://200.115.120.1:8000/play/ca081/index.m3u8
 
 #CULTURALES#
 #EXTINF:-1 tvg-id="AR - Argentinísima Satelital" tvg-logo="https://iptv-epg.org/logos/Argentina/ArgentinisimaSatelital.ar.png"  group-title="Culturales" ,Argentinisima
@@ -165,33 +171,34 @@ http://45.228.234.30:16000/play/a02c/index.m3u8
 http://190.60.32.178:8178/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="AR - Golden Edge"tvg-logo="https://iptv-epg.org/logos/Argentina/GoldenEdge.ar.png"  group-title="Peliculas",Golden Edge
 http://45.186.254.75:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-id="AR - HBOPOP" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO POP
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/38.m3u8
+#EXTINF:-1 tvg-id="AR - HBOPOP" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO +
+http://200.115.120.1:8000/play/ca137/index.m3u8
 #EXTINF:-1 tvg-id="AR - HBOMUNDI" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO.ar.png" group-title="Peliculas",HBO MUNDI
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/363.m3u8
+http://200.115.120.1:8000/play/ca136/index.m3u8
 #EXTINF:-1 tvg-id="AR - HBO SIGNATURE" tvg-logo="https://iptv-epg.org/logos/Argentina/HBO2.ar.png" group-title="Peliculas",HBO SIGNATURE
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/42.m3u8
+http://200.115.120.1:8000/play/ca138/index.m3u8
 #EXTINF:-1 tvg-id="AR - HBO Family" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOFamily.ar.png" group-title="Peliculas",HBO Family
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/33.m3u8
-#EXTINF:-1 tvg-id="AR - HBO Plus (Panamericano)" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOPlus%28Panamericano%29.ar.png" group-title="Peliculas",HBO +
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/35.m3u8
+http://200.115.120.1:8000/play/ca135/index.m3u8
+#EXTINF:-1 tvg-id="AR - HBO Plus (Panamericano)" tvg-logo="https://iptv-epg.org/logos/Argentina/HBOPlus%28Panamericano%29.ar.png" group-title="Peliculas",HBO
+http://200.115.120.1:8000/play/ca038/index.m3u8
 #EXTINF:-1 tvg-id="AR - Cinemax (Sur)" tvg-logo="https://iptv-epg.org/logos/Argentina/Cinemax.ar.png" group-title="Peliculas",Cinemax
 http://45.186.254.75:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Cinemaz2
+http://200.115.120.1:8000/play/ca051/index.m3u8
 #EXTINF:-1 tvg-id="AR - Space" tvg-logo="https://iptv-epg.org/logos/Argentina/Space.ar.png" group-title="Peliculas",Space
 http://45.228.234.30:16000/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="AR - Studio Universal" tvg-logo="https://iptv-epg.org/logos/Argentina/StudioUniversal.ar.png" group-title="Peliculas",Studio
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/54.m3u8
+#EXTINF:-1 tvg-id="Universal Premiere" group-title="Peliculas",Universal TV
+http://200.115.120.1:8000/play/ca142/index.m3u
 #EXTINF:-1 tvg-id="Universal Premiere" group-title="Peliculas",Universal Premiere
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/366.m3u8
+http://200.115.120.1:8000/play/ca144/index.m3u8
 #EXTINF:-1 tvg-id="AR - TNT" group-title="Peliculas",Tnt Retro
 http://181.78.82.6:46090/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AR - TNT Series" TVG-LOGO="https://iptv-epg.org/logos/Argentina/TNTSeries.ar.png" group-title="Peliculas",Tnt Series
-http://181.78.82.6:46090/play/a072/index.m3u8
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/6.m3u8
+http://200.115.120.1:8000/play/ca035/index.m3u8
 #EXTINF:-1 tvg-id="AR - FX"  tvg.logo="https://iptv-epg.org/logos/Argentina/FX.ar.png" group-title="Peliculas",FX
 http://217.26.190.76:8888/play/a0g5/index.m3u8
-#EXTINF:-1 tvg-id="AMC.ar" tvg-logo="https://iptv-epg.org/logos/Argentina/AMC.ar.png" group-title="Peliculas",AMC
-http://181.78.82.6:46090/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="DEPELICULA" group-title="Peliculas",De Pelicula
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/18.m3u8
 #EXTINF:11 group-title="Peliculas",Universal cinema
@@ -212,6 +219,11 @@ http://45.228.234.30:16000/play/a05b/index.m3u8
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Peliculas",Cinecanal
 http://181.78.12.119:16123/play/ch10/index.m3u8
+#EXTINF:-1 group-title="Peliculas",Warner
+http://200.115.120.1:8000/play/ca047/index.m3u8
+#EXTINF:-1 group-title="Peliculas",AXN
+http://200.115.120.1:8000/play/ca159/index.m3u8
+
 
 #SIN DEFINIR #
 #EXTINF:11,Telemundo HD
