@@ -13,7 +13,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Argentinos",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Argentinos",Mi telefe
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/6a024684fd4ca6a938f3a118/linear/hls/pa/event/ZTApTmdVQWOhwTvIXtIGXQ/stream/9453e646-219d-4ef9-8d84-5218fed083e8:TUL/variant/1b42da22ff97bf390d7fe0dbaab7ba1f/bandwidth/1808281.m3u8?aid=69dfb44d09ecc98dc876969f&uid=6xAbu946iNWDAO1Ar9dS4pGmCdnGd90u&sid=sg609uMwNn6AFUEJ2NgX7D85JsWZe90T&pid=1cbQ1DDFP6qVWdql4PaXfzLONJHcOP6X&pid_dvr=M1S98bKlQUOka8n4r2EZIa8KxgnjJImc&ref=https%3A%2F%2Fwww.mitelefe.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=OqAtY49qblZQd5BmJ3LL7w9TIx0UJVbsuQWnQnzwDWCDBLUN5xXZppFDhAZW7PWsGOznC9hnEYc&CMCD=cid%3D%226a024684fd4ca6a938f3a118%22%2Cmtp%3D2700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221cbQ1DDFP6qVWdql4PaXfzLONJHcOP6X%22&adInsertionGoogleStreamId=9453e646-219d-4ef9-8d84-5218fed083e8%3ATUL&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1791410703570&ot=8PGSQRLrO8xnlfJTUg2jkg&proto=https&pz=us
+http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 
 #CANALES DE STREAMS#
 #EXTINF:11 group-title="Streams",Canal 22
