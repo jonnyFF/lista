@@ -12,8 +12,10 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 group-title="Argentinos",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Argentinos",Mi telefe
+#EXTINF:-1 group-title="Argentinos",Telefe
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 group-title="Argentinos",Telefe Internacional
+http://200.115.120.1:8000/play/ca016/index.m3u8
 
 #CANALES DE STREAMS#
 #EXTINF:11 group-title="Streams",Canal 22
