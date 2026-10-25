@@ -79,7 +79,7 @@ https://streamtpday1.xyz/global1.php?stream=espn2
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deportes" ,Espn2 Sur
 http://45.70.201.81:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN Sur 3" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN3.ar.png" group-title="Deportes" ,Espn3
-https://streamtpday1.xyz/global1.php?stream=espn3
+http://181.78.12.119:16123/play/ch18/index.m3u8
 #EXTINF:-1 tvg-id="AR - ESPN 4" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN4.ar.png" group-title="Deportes" ,Espn4
 https://streamtpday1.xyz/global1.php?stream=espn4
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn5
