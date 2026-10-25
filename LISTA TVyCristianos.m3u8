@@ -42,8 +42,10 @@ http://45.228.234.30:16000/play/a03a/index.m3u8
 #CANALES DE DOCUMENTALES#
 #EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-id="Historia"  group-title="Documentales" ,NatGeo
+http://181.78.12.119:16123/play/ch30/index.m3u8
 #EXTINF:-1 tvg-id="AR - Animal Planet" tvg-logo="https://iptv-epg.org/logos/Argentina/AnimalPlanet.ar.png"  group-title="Documentales" ,Animal Planet
-https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/4.m3u8
+http://181.78.12.119:16123/play/ch29/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Familia"  group-title="Documentales" ,Discovery Familia
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/9.m3u8
 #EXTINF:-1 tvg-id="MX - A&E" tvg-logo="https://iptv-epg.org/logos/Argentina/AandE.ar.png" group-title="Documentales",A&E
@@ -57,11 +59,26 @@ https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
 #EXTINF:11 group-title="Documentales",E!
 http://45.228.234.30:16000/play/a01d/index.m3u8
 #EXTINF:11 group-title="Documentales",Discovery ID HD
-http://45.228.234.30:16000/play/a06b/index.m3u8
+http://181.78.12.119:16123/play/ch23/index.m3u8
 #EXTINF:11 group-title="Documentales",Discovery Channel
-http://45.228.234.30:16000/play/a01g/index.m3u8
+http://181.78.12.119:16123/play/ch22/index.m3u8
+#EXTINF:11 group-title="Documentales",Discovery Turbo
+http://181.78.12.119:16123/play/ch24/index.m3u
+#EXTINF:11 group-title="Documentales",Discovery H&H
+http://181.78.12.119:16123/play/ch25/index.m3u8
 #EXTINF:11 group-title="Documentales",A&E
 http://45.228.234.30:16000/play/a01e/index.m3u8
+
+#INFANTILES
+#EXTINF:11 group-title="Infantiles",Baby TV
+http://181.78.12.119:16123/play/ch01/index.m3u8
+#EXTINF:11 group-title="Infantiles",Disney Channel
+http://181.78.12.119:16123/play/ch03/index.m3u8
+#EXTINF:11 group-title="Infantiles",Discovery Kids
+http://181.78.12.119:16123/play/ch02/index.m3u8
+#EXTINF:11 group-title="Infantiles",Cartoon Network
+http://181.78.12.119:16123/play/ch09/index.m3u8
+
 
 #DEPORTES
 #EXTINF:-1 tvg-id="AR - TyC Sports" tvg-logo="https://iptv-epg.org/logos/Argentina/TyCSports.ar.png" group-title="Deportes" ,TyC sport
@@ -71,7 +88,7 @@ https://streamtpday1.xyz/global1.php?stream=telefe
 #EXTINF:-1 tvg-id="FOX Sports" tvg-logo="" group-title="Deportes" ,Fox sport
 https://streamtpday1.xyz/global1.php?stream=fox1ar
 #EXTINF:-1 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPNExtra.ar.png" group-title="Deportes" ,Espn
-https://streamtpday1.xyz/global1.php?stream=espn
+http://181.78.12.119:16123/play/ch16/index.m3u8
 #EXTINF:11 tvg-id="AR - ESPN" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN.ar.png" group-title="Deportes" ,Espn Premium
 https://streamtpday1.xyz/global1.php?stream=espnpremium
 #EXTINF:-1 tvg-id="AR - ESPN 2" tvg-logo="https://iptv-epg.org/logos/Argentina/ESPN2.ar.png" group-title="Deportes" ,Espn2
@@ -84,6 +101,10 @@ http://181.78.12.119:16123/play/ch18/index.m3u8
 https://streamtpday1.xyz/global1.php?stream=espn4
 #EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn5
 http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn6
+http://181.78.12.119:16123/play/ch20/index.m3u8
+#EXTINF:-1 tvg-id="Espn5"  group-title="Deportes" ,Espn7
+http://181.78.12.119:16123/play/ch20/index.m3u8
 #EXTINF:11 tvg-id="Tnt sport"  group-title="Deportes" ,Tnt sport Premium
 https://streamtpday1.xyz/global1.php?stream=tntsports
 #EXTINF:-1 tvg-id="Bein Sports Xtra"  group-title="Deportes" ,Bein Sports Xtra
